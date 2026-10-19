@@ -1,0 +1,138 @@
+{
+  "title": "The Rage Fieldbook",
+  "subtitle": "Working with AI, keeping the understanding.",
+  "author": "Marc / @NeuralYogi",
+  "repository": "https://github.com/marctheshark3/rage-fieldbook",
+  "site_url": "https://marctheshark3.github.io/rage-fieldbook/",
+  "sections": [
+    {
+      "title": "Start here",
+      "pages": [
+        {
+          "path": "README.md",
+          "title": "The Rage Fieldbook"
+        }
+      ]
+    },
+    {
+      "title": "Practice",
+      "pages": [
+        {
+          "path": "chapters/01-keep-the-direction.md",
+          "title": "1 · Keep the direction"
+        },
+        {
+          "path": "chapters/02-the-agent-loop.md",
+          "title": "2 · The agent loop"
+        },
+        {
+          "path": "chapters/03-skills.md",
+          "title": "3 · Skills"
+        },
+        {
+          "path": "chapters/04-subagents.md",
+          "title": "4 · Subagents"
+        },
+        {
+          "path": "chapters/05-context-and-memory.md",
+          "title": "5 · Context and memory"
+        },
+        {
+          "path": "chapters/06-honest-interfaces.md",
+          "title": "6 · Honest interfaces"
+        },
+        {
+          "path": "chapters/07-experiments.md",
+          "title": "7 · Experiments"
+        },
+        {
+          "path": "chapters/08-local-and-remote-ai.md",
+          "title": "8 · Local and remote AI"
+        },
+        {
+          "path": "chapters/09-from-screen-to-world.md",
+          "title": "9 · From screen to world"
+        },
+        {
+          "path": "chapters/10-publish-the-lesson.md",
+          "title": "10 · Publish the lesson"
+        }
+      ]
+    },
+    {
+      "title": "Essays",
+      "pages": [
+        {
+          "path": "essays/README.md",
+          "title": "Essay reading guide"
+        },
+        {
+          "path": "essays/keep-the-understanding.md",
+          "title": "Keep the understanding"
+        },
+        {
+          "path": "essays/player-two.md",
+          "title": "Player Two"
+        },
+        {
+          "path": "essays/when-the-source-goes-quiet.md",
+          "title": "When the source goes quiet"
+        }
+      ]
+    },
+    {
+      "title": "At your desk",
+      "pages": [
+        {
+          "path": "templates/work-brief.md",
+          "title": "Work brief"
+        },
+        {
+          "path": "templates/delegation-brief.md",
+          "title": "Delegation brief"
+        },
+        {
+          "path": "templates/evidence-note.md",
+          "title": "Evidence note"
+        },
+        {
+          "path": "templates/publication-note.md",
+          "title": "Publication note"
+        }
+      ]
+    },
+    {
+      "title": "Reference",
+      "pages": [
+        {
+          "path": "sources/README.md",
+          "title": "Public source catalog"
+        },
+        {
+          "path": "ROADMAP.md",
+          "title": "What to add next"
+        },
+        {
+          "path": "ACKNOWLEDGMENTS.md",
+          "title": "Acknowledgments"
+        },
+        {
+          "path": "docs/publication.md",
+          "title": "Publication boundary"
+        },
+        {
+          "path": "docs/release-check.md",
+          "title": "First-edition checks"
+        },
+        {
+          "path": "CONTRIBUTING.md",
+          "title": "Contributing"
+        },
+        {
+          "path": "RIGHTS.md",
+          "title": "Rights"
+        }
+      ]
+    }
+  ]
+}
