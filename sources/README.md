@@ -1,8 +1,8 @@
-# Public sources
+# Sources and accounts
 
 This catalog contains selected public sources used by the fieldbook. It is not a repository inventory. Pinned README access establishes that the cited file was publicly readable; it does not establish runtime behavior or independent reproduction of its results.
 
-Source records distinguish support, limits, authorship, rights, and the actual access check. New chapter recommendations are editorial synthesis. Essays retain their historical author-reported state.
+Source records distinguish support, limits, authorship, rights, and the actual source check. New chapter recommendations are editorial synthesis. Essays retain their historical author-reported state. Owner accounts are labeled separately; publishing an account does not make it independent evidence.
 
 <h2 id="option-flow">Option Flow</h2>
 
@@ -20,7 +20,7 @@ Source records distinguish support, limits, authorship, rights, and the actual a
 
 Revision: `fa1a64ccb9ce42faf1d4702e01e64c89bd76978d`.
 
-Access check: Anonymous HTTPS GET of the exact pinned README; no Authorization header. Recorded `2026-10-19T00:45:54Z`.
+Source check: Anonymous HTTPS GET of the exact pinned README; no Authorization header. Recorded `2026-10-19T00:45:54Z`.
 
 Source body SHA-256: `6d25528f7cdfc77ed66cd4e3674e1c9f3b22f7f28cdac4c55da9bc9e164c4c02`.
 
@@ -40,7 +40,7 @@ Source body SHA-256: `6d25528f7cdfc77ed66cd4e3674e1c9f3b22f7f28cdac4c55da9bc9e16
 
 Revision: `1e46479a8730b78656c0c1874fa676c3eac4d53c`.
 
-Access check: Anonymous HTTPS GET of the exact pinned README; no Authorization header. Recorded `2026-10-19T00:45:54Z`.
+Source check: Anonymous HTTPS GET of the exact pinned README; no Authorization header. Recorded `2026-10-19T00:45:54Z`.
 
 Source body SHA-256: `30500916a4dcf56636143fcabf42772ec696f37bb4457249c0cb04a1a840a9ee`.
 
@@ -60,7 +60,7 @@ Source body SHA-256: `30500916a4dcf56636143fcabf42772ec696f37bb4457249c0cb04a1a8
 
 Revision: `2b1733d23b2c55fd1659a331e70ffd0234bab335`.
 
-Access check: Anonymous HTTPS GET of the exact pinned README; no Authorization header. Recorded `2026-10-19T00:45:54Z`.
+Source check: Anonymous HTTPS GET of the exact pinned README; no Authorization header. Recorded `2026-10-19T00:45:54Z`.
 
 Source body SHA-256: `2ae738838f30d109e94345130556c5becaf03231214238fda4c125cd400515eb`.
 
@@ -80,7 +80,7 @@ Source body SHA-256: `2ae738838f30d109e94345130556c5becaf03231214238fda4c125cd40
 
 Revision: `f30bf69f3af2ec2d24c3728dda308eadfdf1e597`.
 
-Access check: Anonymous HTTPS GET of the exact pinned README; no Authorization header. Recorded `2026-10-19T00:45:54Z`.
+Source check: Anonymous HTTPS GET of the exact pinned README; no Authorization header. Recorded `2026-10-19T00:45:54Z`.
 
 Source body SHA-256: `0a227887d652ba837e86dd13370838d40a52313a6387e5e06e0b9a36ad5a1452`.
 
@@ -100,7 +100,7 @@ Source body SHA-256: `0a227887d652ba837e86dd13370838d40a52313a6387e5e06e0b9a36ad
 
 Revision: `8383dd4d241a25265d172e9410b2359be5df41a9`.
 
-Access check: Anonymous HTTPS GET of the exact pinned README; no Authorization header. Recorded `2026-10-19T00:45:54Z`.
+Source check: Anonymous HTTPS GET of the exact pinned README; no Authorization header. Recorded `2026-10-19T00:45:54Z`.
 
 Source body SHA-256: `ffa02f09d20f2f8aadf53a8907cc798c0b70180e56f3db97df00e16cc6135857`.
 
@@ -120,7 +120,7 @@ Source body SHA-256: `ffa02f09d20f2f8aadf53a8907cc798c0b70180e56f3db97df00e16cc6
 
 Revision: `18cee3791b89baadbb06e15f70074f5936022900`.
 
-Access check: Anonymous HTTPS GET of the exact pinned README; no Authorization header. Recorded `2026-10-19T00:45:54Z`.
+Source check: Anonymous HTTPS GET of the exact pinned README; no Authorization header. Recorded `2026-10-19T00:45:54Z`.
 
 Source body SHA-256: `91aecdd25885819ba2c724e2b32cd39f53f0ee83b57fd20c8160b5f6f085f85c`.
 
@@ -140,7 +140,7 @@ Source body SHA-256: `91aecdd25885819ba2c724e2b32cd39f53f0ee83b57fd20c8160b5f6f0
 
 Revision: `4c0115c64b0a603ed483af8e10d20d34885ffcda`.
 
-Access check: Anonymous HTTPS GET of the exact pinned README; no Authorization header. Recorded `2026-10-19T00:45:54Z`.
+Source check: Anonymous HTTPS GET of the exact pinned README; no Authorization header. Recorded `2026-10-19T00:45:54Z`.
 
 Source body SHA-256: `08c3b107490aafbee5ed17fc078ba64393dced5908ee86a75c833b0e00e9df0e`.
 
@@ -160,7 +160,7 @@ Source body SHA-256: `08c3b107490aafbee5ed17fc078ba64393dced5908ee86a75c833b0e00
 
 Revision: `092aab9733d9246f0fd5abdae8c779213193ff37`.
 
-Access check: Anonymous HTTPS GET of the exact pinned README; no Authorization header. Recorded `2026-10-19T00:45:54Z`.
+Source check: Anonymous HTTPS GET of the exact pinned README; no Authorization header. Recorded `2026-10-19T00:45:54Z`.
 
 Source body SHA-256: `a8cde0caafddad34c93115e809dc9c476489fb962ebcc4cc2fd115756e3741cf`.
 
@@ -180,7 +180,7 @@ Source body SHA-256: `a8cde0caafddad34c93115e809dc9c476489fb962ebcc4cc2fd115756e
 
 Revision: `100adb591504f8355670be2efbceff10d703f378`.
 
-Access check: Anonymous HTTPS GET of the exact pinned README; no Authorization header. Recorded `2026-10-19T00:45:54Z`.
+Source check: Anonymous HTTPS GET of the exact pinned README; no Authorization header. Recorded `2026-10-19T00:45:54Z`.
 
 Source body SHA-256: `ed1233206f152a872f243578c3e483952d5dbb55c8022c8c4c60cfbcfd0f9bb5`.
 
@@ -200,7 +200,7 @@ Source body SHA-256: `ed1233206f152a872f243578c3e483952d5dbb55c8022c8c4c60cfbcfd
 
 Revision: `f149f67eff6d4fee5996c6632f882b9c089be23f`.
 
-Access check: Anonymous HTTPS GET of the exact pinned README; no Authorization header. Recorded `2026-10-19T00:45:54Z`.
+Source check: Anonymous HTTPS GET of the exact pinned README; no Authorization header. Recorded `2026-10-19T00:45:54Z`.
 
 Source body SHA-256: `960e2b40feaca5cb2de63453ab450a44526324ef39e7ad303f624aae81d882f1`.
 
@@ -220,7 +220,7 @@ Source body SHA-256: `960e2b40feaca5cb2de63453ab450a44526324ef39e7ad303f624aae81
 
 Revision: `72549036c5f2f08fa2487d36c1dabd9ab2349215`.
 
-Access check: Anonymous HTTPS GET of the exact pinned README; no Authorization header. Recorded `2026-10-19T00:45:54Z`.
+Source check: Anonymous HTTPS GET of the exact pinned README; no Authorization header. Recorded `2026-10-19T00:45:54Z`.
 
 Source body SHA-256: `852d0a1309bff1456ef0e601ef364716aa466547b43b230cd0755f55220c3d8d`.
 
@@ -240,7 +240,7 @@ Source body SHA-256: `852d0a1309bff1456ef0e601ef364716aa466547b43b230cd0755f5522
 
 Revision: `3c0469bc62f90c57dec9bfa4b387182a22feece9`.
 
-Access check: Anonymous HTTPS GET of the exact pinned README; no Authorization header. Recorded `2026-10-19T00:45:54Z`.
+Source check: Anonymous HTTPS GET of the exact pinned README; no Authorization header. Recorded `2026-10-19T00:45:54Z`.
 
 Source body SHA-256: `e2eddc5925fcad0beb8ae15e5e06d1f16cdc43f38532d328b157b2819864772d`.
 
@@ -260,7 +260,7 @@ Source body SHA-256: `e2eddc5925fcad0beb8ae15e5e06d1f16cdc43f38532d328b157b28198
 
 Revision: `a2db2db255e9f7a1cfee1e7ab374c485c98d51bc`.
 
-Access check: Anonymous HTTPS GET of the exact pinned README; no Authorization header. Recorded `2026-10-19T00:45:54Z`.
+Source check: Anonymous HTTPS GET of the exact pinned README; no Authorization header. Recorded `2026-10-19T00:45:54Z`.
 
 Source body SHA-256: `c8d786257f6a66d3f3fe05422f95ff20ba40f6cd72411e5fa5a9f5175a77a55b`.
 
@@ -280,7 +280,7 @@ Source body SHA-256: `c8d786257f6a66d3f3fe05422f95ff20ba40f6cd72411e5fa5a9f5175a
 
 Revision: `d460630270fcf91e90134307e2e9880c4274bcb7`.
 
-Access check: Anonymous HTTPS GET of the exact pinned README; no Authorization header. Recorded `2026-10-19T00:45:54Z`.
+Source check: Anonymous HTTPS GET of the exact pinned README; no Authorization header. Recorded `2026-10-19T00:45:54Z`.
 
 Source body SHA-256: `874325ebae589cfe3e914b0ebe6d549c1a9a4735544f0c645abdbae444e01bfa`.
 
@@ -300,7 +300,7 @@ Source body SHA-256: `874325ebae589cfe3e914b0ebe6d549c1a9a4735544f0c645abdbae444
 
 Revision: `1b82521dad8ad1cfcfcffe85e3e64c94bd1d9eab`.
 
-Access check: Anonymous HTTPS GET of the exact pinned README; no Authorization header. Recorded `2026-10-19T00:45:54Z`.
+Source check: Anonymous HTTPS GET of the exact pinned README; no Authorization header. Recorded `2026-10-19T00:45:54Z`.
 
 Source body SHA-256: `9391ca39d54db8ba8771d9aec8a76542021ef9a0ac90341a6ad11652288d2e4c`.
 
@@ -320,7 +320,7 @@ Source body SHA-256: `9391ca39d54db8ba8771d9aec8a76542021ef9a0ac90341a6ad1165228
 
 Revision: `412b86899088b9ff5d5c47db45ce283779c86021`.
 
-Access check: Anonymous HTTPS GET of the exact pinned README; no Authorization header. Recorded `2026-10-19T00:45:54Z`.
+Source check: Anonymous HTTPS GET of the exact pinned README; no Authorization header. Recorded `2026-10-19T00:45:54Z`.
 
 Source body SHA-256: `1dbc4d3c63fed1c0f0b45a52b84196a388c2628e2aede82957eaa154ff43ddf8`.
 
@@ -340,7 +340,7 @@ Source body SHA-256: `1dbc4d3c63fed1c0f0b45a52b84196a388c2628e2aede82957eaa154ff
 
 Revision: `c0e7f0575d1cc2316ea61ea03477f7ceff6ff0e8`.
 
-Access check: Anonymous HTTPS GET of the exact pinned README; no Authorization header. Recorded `2026-10-19T00:45:54Z`.
+Source check: Anonymous HTTPS GET of the exact pinned README; no Authorization header. Recorded `2026-10-19T00:45:54Z`.
 
 Source body SHA-256: `12e448be9ae2e33845633c0918d68c166e09e9e16927f7dda0a2e6ad4f7694f2`.
 
@@ -360,7 +360,7 @@ Source body SHA-256: `12e448be9ae2e33845633c0918d68c166e09e9e16927f7dda0a2e6ad4f
 
 Revision: `eef5006212cc809b51c036d7fbca4d662c9eab03`.
 
-Access check: Anonymous HTTPS GET of the exact pinned README; no Authorization header. Recorded `2026-10-19T00:45:54Z`.
+Source check: Anonymous HTTPS GET of the exact pinned README; no Authorization header. Recorded `2026-10-19T00:45:54Z`.
 
 Source body SHA-256: `c9903520e87d73c70a2344ffddc34e3fc2034544eb55c64f38f5ea1887f0a450`.
 
@@ -380,7 +380,7 @@ Source body SHA-256: `c9903520e87d73c70a2344ffddc34e3fc2034544eb55c64f38f5ea1887
 
 Revision: `4e62ff0a51ec81b65311dda2e4eec259a5574032`.
 
-Access check: Anonymous HTTPS GET of the exact pinned README; no Authorization header. Recorded `2026-10-19T00:45:54Z`.
+Source check: Anonymous HTTPS GET of the exact pinned README; no Authorization header. Recorded `2026-10-19T00:45:54Z`.
 
 Source body SHA-256: `1f0d326d63418311b401bfdea525b622eae2fc60c1f9eb953ec7b1d6929e8027`.
 
@@ -400,7 +400,7 @@ Source body SHA-256: `1f0d326d63418311b401bfdea525b622eae2fc60c1f9eb953ec7b1d692
 
 Revision: `5ae6da1ef0b653d1248f83ca633e7658ac13dc4e`.
 
-Access check: Anonymous HTTPS GET of the exact pinned README; no Authorization header. Recorded `2026-10-19T00:45:54Z`.
+Source check: Anonymous HTTPS GET of the exact pinned README; no Authorization header. Recorded `2026-10-19T00:45:54Z`.
 
 Source body SHA-256: `b6a8a02f91a6fc4078863819236ad9d40335b24fd33162c4d346b0b2cc35b12f`.
 
@@ -418,7 +418,7 @@ Source body SHA-256: `b6a8a02f91a6fc4078863819236ad9d40335b24fd33162c4d346b0b2cc
 
 **Rights:** Linked official documentation; no text or examples reproduced.
 
-Access check: Official page opened and relevant skill sections read. Recorded `2026-10-19T00:45:54Z`.
+Source check: Official page opened and relevant skill sections read. Recorded `2026-10-19T00:45:54Z`.
 
 <h2 id="official-subagents">Official subagents</h2>
 
@@ -434,7 +434,7 @@ Access check: Official page opened and relevant skill sections read. Recorded `2
 
 **Rights:** Linked official documentation; no text or examples reproduced.
 
-Access check: Official page opened and relevant orchestration sections read. Recorded `2026-10-19T00:45:54Z`.
+Source check: Official page opened and relevant orchestration sections read. Recorded `2026-10-19T00:45:54Z`.
 
 <h2 id="essay-2026-10-16-seventeen-pendulums-one-cart">Seventeen pendulums, one cart</h2>
 
@@ -450,7 +450,7 @@ Access check: Official page opened and relevant orchestration sections read. Rec
 
 **Rights:** Marc-authored public essay; linked, or reproduced as selected by the owner for this book.
 
-Access check: Anonymous incognito browser fetch with credentials omitted; HTTP 200; published article body inspected. Recorded `2026-10-19T00:45:54Z`.
+Source check: Anonymous incognito browser fetch with credentials omitted; HTTP 200; published article body inspected. Recorded `2026-10-19T00:45:54Z`.
 
 Source body SHA-256: `e4c11f9bb756051376f40dddf75f73dda8377c27309789614994bb12533a0b4f`.
 
@@ -468,7 +468,7 @@ Source body SHA-256: `e4c11f9bb756051376f40dddf75f73dda8377c27309789614994bb1253
 
 **Rights:** Marc-authored public essay; linked, or reproduced as selected by the owner for this book.
 
-Access check: Anonymous incognito browser fetch with credentials omitted; HTTP 200; published article body inspected. Recorded `2026-10-19T00:45:54Z`.
+Source check: Anonymous incognito browser fetch with credentials omitted; HTTP 200; published article body inspected. Recorded `2026-10-19T00:45:54Z`.
 
 Source body SHA-256: `4f50822fe1aee271fdb08a7e32e6ea6f3606f70f00c3bfedd11808f78a716fa5`.
 
@@ -486,7 +486,7 @@ Source body SHA-256: `4f50822fe1aee271fdb08a7e32e6ea6f3606f70f00c3bfedd11808f78a
 
 **Rights:** Marc-authored public essay; linked, or reproduced as selected by the owner for this book.
 
-Access check: Anonymous incognito browser fetch with credentials omitted; HTTP 200; published article body inspected. Recorded `2026-10-19T00:45:54Z`.
+Source check: Anonymous incognito browser fetch with credentials omitted; HTTP 200; published article body inspected. Recorded `2026-10-19T00:45:54Z`.
 
 Source body SHA-256: `7132662ac78dec3901206c30571ce8a3a83474815947b3f92bbc55a21dcd96ca`.
 
@@ -504,7 +504,7 @@ Source body SHA-256: `7132662ac78dec3901206c30571ce8a3a83474815947b3f92bbc55a21d
 
 **Rights:** Marc-authored public essay; linked, or reproduced as selected by the owner for this book.
 
-Access check: Anonymous incognito browser fetch with credentials omitted; HTTP 200; published article body inspected. Recorded `2026-10-19T00:45:54Z`.
+Source check: Anonymous incognito browser fetch with credentials omitted; HTTP 200; published article body inspected. Recorded `2026-10-19T00:45:54Z`.
 
 Source body SHA-256: `f74abf6de764162f061ce40d7adcb1195f3a3030b12fc223cb3e3a40f0c73578`.
 
@@ -522,7 +522,7 @@ Source body SHA-256: `f74abf6de764162f061ce40d7adcb1195f3a3030b12fc223cb3e3a40f0
 
 **Rights:** Marc-authored public essay; linked, or reproduced as selected by the owner for this book.
 
-Access check: Anonymous incognito browser fetch with credentials omitted; HTTP 200; published article body inspected. Recorded `2026-10-19T00:45:54Z`.
+Source check: Anonymous incognito browser fetch with credentials omitted; HTTP 200; published article body inspected. Recorded `2026-10-19T00:45:54Z`.
 
 Source body SHA-256: `28e47f6312bf68c84d50c2328f15e76f0d1d3fb1f1e66359847689c5b7884f12`.
 
@@ -540,7 +540,7 @@ Source body SHA-256: `28e47f6312bf68c84d50c2328f15e76f0d1d3fb1f1e66359847689c5b7
 
 **Rights:** Marc-authored public essay; linked, or reproduced as selected by the owner for this book.
 
-Access check: Anonymous incognito browser fetch with credentials omitted; HTTP 200; published article body inspected. Recorded `2026-10-19T00:45:54Z`.
+Source check: Anonymous incognito browser fetch with credentials omitted; HTTP 200; published article body inspected. Recorded `2026-10-19T00:45:54Z`.
 
 Source body SHA-256: `1e4eb4a0bd52acfa04dbdf671dc4311825ba00cdbc83f6d92145befd3b59c150`.
 
@@ -558,7 +558,7 @@ Source body SHA-256: `1e4eb4a0bd52acfa04dbdf671dc4311825ba00cdbc83f6d92145befd3b
 
 **Rights:** Marc-authored public essay; linked, or reproduced as selected by the owner for this book.
 
-Access check: Anonymous incognito browser fetch with credentials omitted; HTTP 200; published article body inspected. Recorded `2026-10-19T00:45:54Z`.
+Source check: Anonymous incognito browser fetch with credentials omitted; HTTP 200; published article body inspected. Recorded `2026-10-19T00:45:54Z`.
 
 Source body SHA-256: `d8eea13ceabc125e976e22ab7b562b31fa6ab689e0f93d4e86843c6ba5533181`.
 
@@ -578,7 +578,7 @@ Included text: [essays/player-two.md](../essays/player-two.md). Its file digest 
 
 **Rights:** Marc-authored public essay; linked, or reproduced as selected by the owner for this book.
 
-Access check: Anonymous incognito browser fetch with credentials omitted; HTTP 200; published article body inspected. Recorded `2026-10-19T00:45:54Z`.
+Source check: Anonymous incognito browser fetch with credentials omitted; HTTP 200; published article body inspected. Recorded `2026-10-19T00:45:54Z`.
 
 Source body SHA-256: `b7369860e3fd31da5ba0e574c7d14f8049dc1b509df37155b5bc43173b351237`.
 
@@ -596,7 +596,7 @@ Source body SHA-256: `b7369860e3fd31da5ba0e574c7d14f8049dc1b509df37155b5bc43173b
 
 **Rights:** Marc-authored public essay; linked, or reproduced as selected by the owner for this book.
 
-Access check: Anonymous incognito browser fetch with credentials omitted; HTTP 200; published article body inspected. Recorded `2026-10-19T00:45:54Z`.
+Source check: Anonymous incognito browser fetch with credentials omitted; HTTP 200; published article body inspected. Recorded `2026-10-19T00:45:54Z`.
 
 Source body SHA-256: `3a160eae065f52fa63f52aadb5941856cd4c502baae2862ce0c04d2a5af1fe17`.
 
@@ -616,7 +616,7 @@ Included text: [essays/when-the-source-goes-quiet.md](../essays/when-the-source-
 
 **Rights:** Marc-authored public essay; linked, or reproduced as selected by the owner for this book.
 
-Access check: Anonymous incognito browser fetch with credentials omitted; HTTP 200; published article body inspected. Recorded `2026-10-19T00:45:54Z`.
+Source check: Anonymous incognito browser fetch with credentials omitted; HTTP 200; published article body inspected. Recorded `2026-10-19T00:45:54Z`.
 
 Source body SHA-256: `79fdb3255b64ece1b3949e14fd850f6cd3d96d6bd699706f4bc99287675fdae8`.
 
@@ -634,7 +634,7 @@ Source body SHA-256: `79fdb3255b64ece1b3949e14fd850f6cd3d96d6bd699706f4bc9928767
 
 **Rights:** Marc-authored public essay; linked, or reproduced as selected by the owner for this book.
 
-Access check: Anonymous incognito browser fetch with credentials omitted; HTTP 200; published article body inspected. Recorded `2026-10-19T00:45:54Z`.
+Source check: Anonymous incognito browser fetch with credentials omitted; HTTP 200; published article body inspected. Recorded `2026-10-19T00:45:54Z`.
 
 Source body SHA-256: `218549682020c8a2e70a0356dbd6a3e8a8d18bf1dc419f674ae8f9ec4c9bd41e`.
 
@@ -654,7 +654,7 @@ Included text: [essays/keep-the-understanding.md](../essays/keep-the-understandi
 
 **Rights:** Marc-authored public essay; linked, or reproduced as selected by the owner for this book.
 
-Access check: Anonymous incognito browser fetch with credentials omitted; HTTP 200; published article body inspected. Recorded `2026-10-19T00:45:54Z`.
+Source check: Anonymous incognito browser fetch with credentials omitted; HTTP 200; published article body inspected. Recorded `2026-10-19T00:45:54Z`.
 
 Source body SHA-256: `cfd453d6301f7a007bf958c3fca4a073a250d56bc840bf48b0de57a5ac0c8225`.
 
@@ -672,7 +672,7 @@ Source body SHA-256: `cfd453d6301f7a007bf958c3fca4a073a250d56bc840bf48b0de57a5ac
 
 **Rights:** Marc-authored public essay; linked, or reproduced as selected by the owner for this book.
 
-Access check: Anonymous incognito browser fetch with credentials omitted; HTTP 200; published article body inspected. Recorded `2026-10-19T00:45:54Z`.
+Source check: Anonymous incognito browser fetch with credentials omitted; HTTP 200; published article body inspected. Recorded `2026-10-19T00:45:54Z`.
 
 Source body SHA-256: `334a75aa752375f8af2c66ec7eebfbb8f47425408f8585d86a9f9a6ff9d4e2fe`.
 
@@ -690,6 +690,70 @@ Source body SHA-256: `334a75aa752375f8af2c66ec7eebfbb8f47425408f8585d86a9f9a6ff9
 
 **Rights:** Marc-authored public essay; linked, or reproduced as selected by the owner for this book.
 
-Access check: Anonymous incognito browser fetch with credentials omitted; HTTP 200; published article body inspected. Recorded `2026-10-19T00:45:54Z`.
+Source check: Anonymous incognito browser fetch with credentials omitted; HTTP 200; published article body inspected. Recorded `2026-10-19T00:45:54Z`.
 
 Source body SHA-256: `0867ec450b9fbf6eee2e911757d16847178f61d5674dd88f412185faacd821d4`.
+
+<h2 id="official-skill-choice">Official skill selection guidance</h2>
+
+**Source:** [Official skill selection guidance](https://developers.openai.com/cookbook/examples/skills_in_api)
+
+**Authors:** OpenAI
+
+**Kind:** documentation
+
+**Used for:** Distinguishes stable reusable procedures, one-time tasks, live tools, and always-applicable instructions.
+
+**Limits:** Product-specific API and packaging details are outside this book’s guidance; chapter decision criteria are editorial recommendations.
+
+**Rights:** Linked official documentation; no code or examples reproduced.
+
+Source check: Official page opened and the skill-choice and skills/tools/instructions sections read. Recorded `2026-10-19T00:59:55Z`.
+
+<h2 id="official-practice">Official working practices</h2>
+
+**Source:** [Official working practices](https://learn.chatgpt.com/docs/learn/best-practices)
+
+**Authors:** OpenAI
+
+**Kind:** documentation
+
+**Used for:** Starting from relevant context, improving recurring work, and deriving focused skills from representative tasks.
+
+**Limits:** Guidance is not a controlled productivity result or evidence for the owner’s gear account.
+
+**Rights:** Linked official documentation; no examples reproduced.
+
+Source check: Official page opened and context and repeatable-workflow guidance read. Recorded `2026-10-19T00:59:55Z`.
+
+<h2 id="official-context">Official context and customization guidance</h2>
+
+**Source:** [Official context and customization guidance](https://learn.chatgpt.com/docs/customization/overview)
+
+**Authors:** OpenAI
+
+**Kind:** documentation
+
+**Used for:** Distinguishes project guidance, memories, skills, tool access, and subagents in Codex.
+
+**Limits:** Different products and sessions expose different mechanisms. This source does not identify what context the gear task loaded.
+
+**Rights:** Linked official documentation; no examples reproduced.
+
+Source check: Official page opened and the customization-layer and guidance sections read. Recorded `2026-10-19T00:59:55Z`.
+
+<h2 id="rage-gear-context">Two months behind a first attempt</h2>
+
+**Source:** [Two months behind a first attempt](https://marctheshark3.github.io/rage-fieldbook/field-notes/rage-gear-context.html)
+
+**Authors:** Marc / @NeuralYogi; editorial explanation prepared with AI assistance
+
+**Kind:** owner-account
+
+**Used for:** Marc reported that, after about two months of building with agents, a first Rage gear attempt worked for him and attributed it to context about him and his preferences.
+
+**Limits:** Owner-reported experience. No original prompt, loaded-context trace, artwork, production workflow, controlled comparison, or independent reproduction was inspected.
+
+**Rights:** Owner-supplied account published at the scope provided for the book; no private source material reproduced.
+
+Source check: Account supplied by the owner for the book’s editorial direction. The linked note is its public record; no independent experiment or anonymous-source claim is made. Recorded `2026-10-19T00:59:55Z`.

@@ -50,6 +50,7 @@ def main():
     if errors:
         raise SystemExit("\n".join(errors))
     manifest = json.loads((ROOT / "book.json").read_text())
+    edition = html.escape(str(manifest.get("edition", "0.1")))
     pages = [page for section in manifest["sections"] for page in section["pages"]]
     by_path = {page["path"]: page for page in pages}
     # The output location is fixed; no user-supplied path can broaden deletion.
@@ -98,7 +99,7 @@ def main():
 <header class="masthead"><a class="wordmark" href="{relative('index.html', current)}"><span class="stamp" aria-hidden="true">R</span><span>The Rage Fieldbook<small>Working with AI, keeping the understanding.</small></span></a><a class="repo" href="{manifest['repository']}">Source on GitHub ↗</a></header>
 <div class="layout">
 <aside><details class="contents" open><summary>Browse the fieldbook</summary><div class="nav-inner"><label for="chapter-search">Find a chapter</label><input id="chapter-search" type="search" placeholder="Skills, evidence, interfaces…" autocomplete="off"><nav aria-label="Book contents">{''.join(navigation)}</nav><p class="nav-note">By Marc / @NeuralYogi<br>From Rage Industries</p></div></details></aside>
-<main id="main" tabindex="-1"><div class="reading-meta"><span>Living edition · 0.1</span><span>{minutes} min read</span></div><article>{body}</article><nav class="pager" aria-label="Reading sequence">{''.join(pager)}</nav><footer>Written from the work. Kept open to correction.<br><a href="{relative(route('ACKNOWLEDGMENTS.md'), current)}">Inspiration &amp; credit</a> · <a href="{relative(route('docs/publication.md'), current)}">Publication boundary</a> · <a href="{manifest['repository']}/blob/main/{source}">Read this page on GitHub</a></footer></main>
+<main id="main" tabindex="-1"><div class="reading-meta"><span>Living edition · {edition}</span><span>{minutes} min read</span></div><article>{body}</article><nav class="pager" aria-label="Reading sequence">{''.join(pager)}</nav><footer>Written from the work. Kept open to correction.<br><a href="{relative(route('ACKNOWLEDGMENTS.md'), current)}">Inspiration &amp; credit</a> · <a href="{relative(route('docs/publication.md'), current)}">Publication boundary</a> · <a href="{manifest['repository']}/blob/main/{source}">Read this page on GitHub</a></footer></main>
 </div>
 </body></html>'''
         target = OUTPUT / current

@@ -11,6 +11,19 @@
         {
           "path": "README.md",
           "title": "The Rage Fieldbook"
+        },
+        {
+          "path": "chapters/00-when-to-use-ai.md",
+          "title": "When to use AI"
+        }
+      ]
+    },
+    {
+      "title": "Field notes",
+      "pages": [
+        {
+          "path": "field-notes/rage-gear-context.md",
+          "title": "Two months behind a first attempt"
         }
       ]
     },
@@ -88,6 +101,10 @@
           "title": "Work brief"
         },
         {
+          "path": "templates/context-brief.md",
+          "title": "Context brief"
+        },
+        {
           "path": "templates/delegation-brief.md",
           "title": "Delegation brief"
         },
@@ -106,7 +123,7 @@
       "pages": [
         {
           "path": "sources/README.md",
-          "title": "Public source catalog"
+          "title": "Sources and accounts"
         },
         {
           "path": "ROADMAP.md",
@@ -125,6 +142,10 @@
           "title": "First-edition checks"
         },
         {
+          "path": "docs/edition-0.2-check.md",
+          "title": "Context edition checks"
+        },
+        {
           "path": "CONTRIBUTING.md",
           "title": "Contributing"
         },
@@ -134,5 +155,6 @@
         }
       ]
     }
-  ]
+  ],
+  "edition": "0.2"
 }

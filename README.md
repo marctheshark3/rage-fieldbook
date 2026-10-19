@@ -2,13 +2,15 @@
 
 **Working with AI, keeping the understanding.**
 
-A living fieldbook by Marc / [@NeuralYogi](https://neuralyogi.com), from the work at Rage Industries. It brings together published essays, public projects, and practical ways to build with AI: define the outcome, give agents useful tools, make repeated work into skills, and keep the result inspectable.
+A living fieldbook by Marc / [@NeuralYogi](https://neuralyogi.com), from the work at Rage Industries. How to decide when AI will help, work with it effectively, build useful context over time, and recognize when a repeated procedure deserves a skill. Published essays and projects give those practices concrete examples.
 
-**[Read the book](https://marctheshark3.github.io/rage-fieldbook/)** · [Start with a work brief](templates/work-brief.md) · [Public sources](sources/README.md) · [What to add next](ROADMAP.md)
+**[Read the book](https://marctheshark3.github.io/rage-fieldbook/)** · [When to use AI](chapters/00-when-to-use-ai.md) · [Start with a work brief](templates/work-brief.md) · [Sources and accounts](sources/README.md) · [What to add next](ROADMAP.md)
 
-The first edition is a working editorial synthesis, prepared with AI assistance. New chapters offer practices and interpretations; linked project results remain their authors' reported results. This book has not independently reproduced those experiments. The [publication note](docs/publication.md) explains the source boundary and checks.
+This is a working editorial synthesis, prepared with AI assistance. Chapters offer practices and interpretations; linked project results and owner accounts keep their evidence boundaries. This book has not independently reproduced those experiments. The [publication note](docs/publication.md) explains the source boundary and checks.
 
 ## Why a fieldbook
+
+After about two months of building with agents, Marc described asking one to make Rage gear and getting a first attempt that worked for him. He attributed the fit to the context it already had about him and what he liked. [Two months behind a first attempt](field-notes/rage-gear-context.md) records that account and turns it into a practical question: how do you preserve the judgment from today's work so it can help the next task?
 
 The useful part of building with AI is the relationship between an intention, an action, and something we can inspect afterward. A working interface, a failed experiment, a clearer question, and a repeatable procedure can all be useful outcomes. This book follows those connections across software, research, games, and physical interfaces.
 
@@ -16,11 +18,13 @@ Read it as a set of methods to try and improve. Each chapter gives you a concret
 
 ## Read in order
 
+Start with [When to use AI](chapters/00-when-to-use-ai.md): choose the kind of help, recognize when another step would serve the task better, and prepare enough context to evaluate an attempt.
+
 1. [Keep the direction](chapters/01-keep-the-direction.md) — what the person needs to own.
 2. [Give the agent a feedback loop](chapters/02-the-agent-loop.md) — move from a request to observable progress.
-3. [Turn repeated work into skills](chapters/03-skills.md) — preserve a procedure and the judgment around it.
+3. [Turn repeated work into skills](chapters/03-skills.md) — decide when to create one, improve an existing one, or keep a lesson in context.
 4. [Give subagents bounded assignments](chapters/04-subagents.md) — parallel research, explicit handoffs, one integration owner.
-5. [Keep context useful](chapters/05-context-and-memory.md) — separate sources, observations, decisions, and open questions.
+5. [Keep context useful](chapters/05-context-and-memory.md) — carry taste and decisions forward, check what the agent can access, and keep guidance current.
 6. [Make the interface tell the truth](chapters/06-honest-interfaces.md) — freshness, refusal, and evidence people can inspect.
 7. [Keep the experiment honest](chapters/07-experiments.md) — baselines, complete cohorts, and negative results.
 8. [Choose where the model runs](chapters/08-local-and-remote-ai.md) — compare complete workflows and their costs.
@@ -39,7 +43,7 @@ The [essay reading guide](essays/README.md) connects all fourteen essays availab
 
 ## Use it at your desk
 
-Start with the [work brief](templates/work-brief.md), give a parallel reviewer the [delegation brief](templates/delegation-brief.md), and record the result with an [evidence note](templates/evidence-note.md). Before sharing an example, use the [publication note template](templates/publication-note.md).
+Start with the [work brief](templates/work-brief.md) and a [context brief](templates/context-brief.md) when earlier decisions or taste matter. Give a parallel reviewer the [delegation brief](templates/delegation-brief.md), and record the result with an [evidence note](templates/evidence-note.md). Before sharing an example, use the [publication note template](templates/publication-note.md).
 
 These are plain documents. They work with whatever agent or editor you use. This repository describes and links existing public skills; it does not bundle a private skill collection.
 

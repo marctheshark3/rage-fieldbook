@@ -1,0 +1,39 @@
+# When to use AI
+
+After two months of building together, a short request can carry a long history. The person and the agent have examples to work from, decisions to preserve, and procedures they have already improved. An apparently effortless result may depend on that earlier work.
+
+Marc's [Rage gear account](../field-notes/rage-gear-context.md) gives this book a concrete starting point. He described asking an agent to make the gear and getting a first attempt that worked for him. He attributed that fit to the context the agent already had about him and what he liked. The question for a reader is how to build a useful working relationship of their own.
+
+Start with the job you want help doing. Sometimes you need possibilities. Sometimes you need a careful explanation, an implementation, or a repeated operation. Sometimes you need a question that helps you decide what you actually want.
+
+## Choose the kind of help
+
+**Use AI to explore when you can recognize a useful direction before you can describe one precisely.** Ask for a few meaningfully different possibilities and the decisions behind them. React to specific features. That feedback makes the next attempt better informed than a request to make everything better.
+
+**Use AI to understand when it can reach the material that matters.** Ask it to trace a behavior, compare explanations, or define unfamiliar terms beside a concrete example. Keep inspected sources and inferred explanations distinguishable. An explanation becomes more useful when you can follow it back to the relevant material.
+
+**Use AI to build when the desired result can be inspected.** Give it an outcome, useful references, constraints, and room to choose the implementation. A draft, a working interface, or a small experiment gives you something to evaluate. Ask for the artifact that answers the question.
+
+**Use AI for repeated work when the procedure is understood.** Stable transformations, familiar investigations, and consistent deliverables are candidates for a [skill](03-skills.md). First find the procedure that works. Repetition alone does not make an ineffective method worth preserving.
+
+**Use AI to challenge a decision when it can examine the reasons.** Ask which assumption is least supported, which simpler alternative remains viable, and what observation would change the choice. The critique should help you decide what to inspect next.
+
+These are working modes you can switch between. Exploration can become implementation once a direction is clear. A failed implementation can reveal a question that needs an investigation.
+
+## Notice when another step would help more
+
+A task already handled reliably by a direct tool may need no language model in the execution path. Let a calculator calculate, a search locate a known file, or a script perform an exact transformation. AI can help choose or build the tool when that is the uncertain part.
+
+If the missing input is an observation, collect it. More confident prose will not establish a physical fit or reveal a screen the agent has never seen. If taste is the missing input, make a choice or provide a reference with an explanation.
+
+Some activities are valuable because you want to do the thinking or making yourself. Use the agent to ask questions, explain a difficulty, or review an attempt while leaving that part of the work with you. Finishing the artifact is only one possible purpose for the session.
+
+## Start with enough context to judge an attempt
+
+Before spending time on an elaborate prompt, identify the result you want, the material the agent can use, and how you will judge what comes back. If those are unclear, ask for help making them concrete.
+
+When you have relevant prior work, reuse it deliberately. Point to a few accepted examples and say why they fit. Include a rejected direction if it explains a boundary. Add the current task and any new constraint. The [context brief](../templates/context-brief.md) keeps that information small enough to review.
+
+## A practice to try
+
+Pick one task from today. Decide whether you want exploration, understanding, implementation, repetition, or critique. Give the agent that role and one useful artifact to return. Afterward, ask what made the attempt useful and what information it lacked. Preserve the lesson that would help the next related task.

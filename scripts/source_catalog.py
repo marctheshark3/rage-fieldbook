@@ -11,9 +11,9 @@ ROOT = Path(__file__).resolve().parents[1]
 def render():
     data = json.loads((ROOT / "sources/public-sources.json").read_text())
     lines = [
-        "# Public sources", "",
+        "# Sources and accounts", "",
         "This catalog contains selected public sources used by the fieldbook. It is not a repository inventory. Pinned README access establishes that the cited file was publicly readable; it does not establish runtime behavior or independent reproduction of its results.", "",
-        "Source records distinguish support, limits, authorship, rights, and the actual access check. New chapter recommendations are editorial synthesis. Essays retain their historical author-reported state.", "",
+        "Source records distinguish support, limits, authorship, rights, and the actual source check. New chapter recommendations are editorial synthesis. Essays retain their historical author-reported state. Owner accounts are labeled separately; publishing an account does not make it independent evidence.", "",
     ]
     for source in data["sources"]:
         lines.extend([
@@ -27,7 +27,7 @@ def render():
         ])
         if source.get("revision"):
             lines.extend([f'Revision: `{source["revision"]}`.', ""])
-        lines.extend([f'Access check: {source["verification"]} Recorded `{source["verified_at"]}`.', ""])
+        lines.extend([f'Source check: {source["verification"]} Recorded `{source["verified_at"]}`.', ""])
         if source.get("source_sha256"):
             lines.extend([f'Source body SHA-256: `{source["source_sha256"]}`.', ""])
         if source.get("reprint_path"):

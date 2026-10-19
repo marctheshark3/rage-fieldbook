@@ -9,6 +9,7 @@ ROADMAP.md
 assets/reader.css
 assets/reader.js
 book.json
+chapters/00-when-to-use-ai.md
 chapters/01-keep-the-direction.md
 chapters/02-the-agent-loop.md
 chapters/03-skills.md
@@ -20,11 +21,13 @@ chapters/08-local-and-remote-ai.md
 chapters/09-from-screen-to-world.md
 chapters/10-publish-the-lesson.md
 docs/publication.md
+docs/edition-0.2-check.md
 docs/release-check.md
 essays/README.md
 essays/keep-the-understanding.md
 essays/player-two.md
 essays/when-the-source-goes-quiet.md
+field-notes/rage-gear-context.md
 public-files.txt
 requirements.txt
 scripts/build.py
@@ -33,6 +36,7 @@ scripts/validate.py
 scripts/verify_public_sources.py
 sources/README.md
 sources/public-sources.json
+templates/context-brief.md
 templates/delegation-brief.md
 templates/evidence-note.md
 templates/publication-note.md

@@ -1,5 +1,5 @@
 {
-  "edition": "0.1",
+  "edition": "0.2",
   "sources": [
     {
       "id": "option-flow",
@@ -515,6 +515,54 @@
       "verified_at": "2026-10-19T00:45:54Z",
       "verification": "Anonymous incognito browser fetch with credentials omitted; HTTP 200; published article body inspected.",
       "source_sha256": "0867ec450b9fbf6eee2e911757d16847178f61d5674dd88f412185faacd821d4"
+    },
+    {
+      "id": "official-skill-choice",
+      "title": "Official skill selection guidance",
+      "kind": "documentation",
+      "url": "https://developers.openai.com/cookbook/examples/skills_in_api",
+      "authors": "OpenAI",
+      "supports": "Distinguishes stable reusable procedures, one-time tasks, live tools, and always-applicable instructions.",
+      "limits": "Product-specific API and packaging details are outside this book’s guidance; chapter decision criteria are editorial recommendations.",
+      "rights": "Linked official documentation; no code or examples reproduced.",
+      "verified_at": "2026-10-19T00:59:55Z",
+      "verification": "Official page opened and the skill-choice and skills/tools/instructions sections read."
+    },
+    {
+      "id": "official-practice",
+      "title": "Official working practices",
+      "kind": "documentation",
+      "url": "https://learn.chatgpt.com/docs/learn/best-practices",
+      "authors": "OpenAI",
+      "supports": "Starting from relevant context, improving recurring work, and deriving focused skills from representative tasks.",
+      "limits": "Guidance is not a controlled productivity result or evidence for the owner’s gear account.",
+      "rights": "Linked official documentation; no examples reproduced.",
+      "verified_at": "2026-10-19T00:59:55Z",
+      "verification": "Official page opened and context and repeatable-workflow guidance read."
+    },
+    {
+      "id": "official-context",
+      "title": "Official context and customization guidance",
+      "kind": "documentation",
+      "url": "https://learn.chatgpt.com/docs/customization/overview",
+      "authors": "OpenAI",
+      "supports": "Distinguishes project guidance, memories, skills, tool access, and subagents in Codex.",
+      "limits": "Different products and sessions expose different mechanisms. This source does not identify what context the gear task loaded.",
+      "rights": "Linked official documentation; no examples reproduced.",
+      "verified_at": "2026-10-19T00:59:55Z",
+      "verification": "Official page opened and the customization-layer and guidance sections read."
+    },
+    {
+      "id": "rage-gear-context",
+      "title": "Two months behind a first attempt",
+      "kind": "owner-account",
+      "url": "https://marctheshark3.github.io/rage-fieldbook/field-notes/rage-gear-context.html",
+      "authors": "Marc / @NeuralYogi; editorial explanation prepared with AI assistance",
+      "supports": "Marc reported that, after about two months of building with agents, a first Rage gear attempt worked for him and attributed it to context about him and his preferences.",
+      "limits": "Owner-reported experience. No original prompt, loaded-context trace, artwork, production workflow, controlled comparison, or independent reproduction was inspected.",
+      "rights": "Owner-supplied account published at the scope provided for the book; no private source material reproduced.",
+      "verified_at": "2026-10-19T00:59:55Z",
+      "verification": "Account supplied by the owner for the book’s editorial direction. The linked note is its public record; no independent experiment or anonymous-source claim is made."
     }
   ]
 }

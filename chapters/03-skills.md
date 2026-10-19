@@ -6,6 +6,41 @@ The [official skill documentation](../sources/README.md#official-skills) describ
 
 The procedural detail belongs in the skill. The live fact belongs in a tool or current source. A skill can explain how to inspect a printer; it should not pretend that last week's status is the printer's state now.
 
+## When to make a new skill
+
+Make a skill when you can name a recognizable job, describe a procedure worth repeating, and tell whether its result is useful. Reusing the same long prompt or correcting the same sequence repeatedly is a signal to examine the workflow. Extract the part that should survive the next task.
+
+Before creating one, ask:
+
+- **Will this job recur?** There should be a reason to preserve the procedure beyond the current conversation.
+- **Is the useful process known?** Keep exploring while you are still changing what the job means. An accepted example gives the first version something concrete to explain.
+- **Are there decisions to preserve?** Capture which inputs to inspect, how to choose the next step, and when the evidence is insufficient.
+- **Can the result be checked?** Define what comes back and how a reader or tool can assess it.
+- **Does an existing skill already own the job?** Improve its instructions or references when the trigger and outcome are the same. Create another skill when it serves a distinct task.
+
+These are editorial criteria for deciding where to invest effort. They are not a rule that every task must become a skill after a fixed number of repetitions. The [official workflow guidance](../sources/README.md#official-practice) likewise recommends starting from a representative task and keeping a skill focused. The [official skills cookbook](../sources/README.md#official-skill-choice) discusses stable procedures, one-time work, and live tools as different needs.
+
+## Put the learning in the right place
+
+| What you learned | A useful home |
+| --- | --- |
+| What this assignment needs | The work brief or current request |
+| What the person likes, with examples and reasons | A dated context brief and selected references |
+| What applies throughout one repository | Its project guidance, such as `AGENTS.md` |
+| How to complete a recurring kind of job | A focused skill |
+| How to perform an exact calculation or operation | A script or tool used by the workflow |
+| What is true in a changing external system | A current source or tool result |
+
+For example, the [Rage gear account](../field-notes/rage-gear-context.md) concerns context about Marc and his taste. That information can inform the next brief. A reusable procedure for preparing a deliverable would have its own entry conditions, steps, and checks. Keeping the two distinguishable makes the procedure useful when the references or person change.
+
+## Start with a small version
+
+Take one representative attempt that worked and identify the essential decisions. Describe the trigger, required inputs, next steps, stopping conditions, and expected output. Include one realistic failure or missing input. Add a script when exact execution would improve reliability; add references when detail serves only some cases.
+
+Try the procedure on a similar task with different inputs and on a request outside its scope. Use the failures to refine it. A skill that only succeeds when given its original example may have preserved that example too literally.
+
+Keep a skill local to the work while its procedure is changing. Review private context separately before sharing a reusable package. The public lesson here is the method of finding and checking a procedure; this repository does not create or distribute a new skill package.
+
 ## Preserve the useful judgment
 
 A good procedure carries more than a happy path. It explains the inputs it needs, the limits of its evidence, how to handle a missing prerequisite, and what the reader should receive at the end. Keep stable rules close to the main instructions. Move detail that serves only some tasks into references.

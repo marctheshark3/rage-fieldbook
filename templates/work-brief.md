@@ -3,6 +3,8 @@
 Use this document to give an agent enough direction to choose useful implementation details.
 
 - **Person and outcome:** Who needs what to happen?
+- **Kind of help:** Exploration, understanding, implementation, repetition, or critique?
+- **Relevant context:** Which prior decisions, accepted examples, and preferences should apply? Link a [context brief](context-brief.md) if useful.
 - **Current behavior:** What happens now, and what evidence establishes it?
 - **Important conditions:** Which failure, transition, or edge case matters?
 - **Preserve:** Which existing behavior, data, or interfaces must survive?
@@ -11,6 +13,8 @@ Use this document to give an agent enough direction to choose useful implementat
 - **Acceptance:** What observation would show that the outcome was achieved?
 - **Return:** What artifact, explanation, and remaining questions should come back?
 - **Bound:** What limit on cost, time, actions, or uncertainty applies?
+
+After reviewing the result, preserve the reason it worked or the correction that would help the next similar task. Put stable preferences in context and repeatable procedures in the appropriate workflow.
 
 ## Fictional example
 
