@@ -31,6 +31,24 @@ Start with [When to use AI](chapters/00-when-to-use-ai.md): choose the kind of h
 9. [Cross into the physical world carefully](chapters/09-from-screen-to-world.md) — carry the contract through simulation and observation.
 10. [Publish the lesson](chapters/10-publish-the-lesson.md) — share useful knowledge while keeping private work private.
 
+## Work through an example
+
+[One task, from brief to handoff](walkthroughs/brief-to-handoff.md) connects a request, context, a flawed attempt, a correction, executable checks, and a packet for the next session. The reading-list project is fictional; its baseline failure and revised checks were actually executed. The teaching dialogue is constructed, and no agent productivity comparison is claimed.
+
+Continue with the question that fits your work:
+
+- [When the agent gets stuck](walkthroughs/when-the-agent-gets-stuck.md) — find what the next attempt needs to establish.
+- [Teach taste through corrections](walkthroughs/teach-taste.md) — preserve the reason for a preference and its scope.
+- [Improve a skill after a miss](walkthroughs/improve-a-skill.md) — separate a code failure from a proposed procedural repair.
+- [Choose agent autonomy](walkthroughs/choose-autonomy.md) — give useful freedom and make checkpoints concrete.
+- [Everyday work beyond code](walkthroughs/everyday-work.md) — try writing, comparison, planning, and research without running code.
+
+These are original teaching exercises. Constructed drafts and proposed agent evaluations are labeled separately from the digest's executed program checks.
+
+## Read and investigate research
+
+The [research desk](research/README.md) connects published papers and original investigations to practical questions. Start with [A long brief still needs a retrieval check](research/notes/context-retrieval.md), then inspect [a proposed context-position study](research/proposals/context-position.md). The paper was read; no context experiment has been run for these pages. Use the [research note template](templates/research-note.md) for a reading note, proposal, or executed report.
+
 ## Read from the essays
 
 Three existing essays are included as text, with their original public URLs and capture records:
@@ -47,6 +65,8 @@ Start with the [work brief](templates/work-brief.md) and a [context brief](templ
 
 These are plain documents. They work with whatever agent or editor you use. This repository describes and links existing public skills; it does not bundle a private skill collection.
 
+For agents maintaining this book, the public [Rage Fieldbook skill](.agents/skills/rage-fieldbook/SKILL.md) helps decide what belongs here, choose a format, retain evidence limits, and check the reader. Invoke it as `$rage-fieldbook` in a compatible agent with the repository available. The package lives in the repo's `.agents/skills/` directory; the [official skills reference](https://learn.chatgpt.com/docs/build-skills) describes discovery support.
+
 ## Inspiration and credit
 
 The idea for maintaining our own public, evolving book was inspired by **[Corben Sorenson](https://github.com/corbensorenson)** and **[The ASI Stack](https://github.com/corbensorenson/asi-stack-book)**. His project showed a compelling way to keep a book, its sources, open questions, and evidence together as the work develops. Thank you, Corben, for the idea.
@@ -60,6 +80,8 @@ The Markdown is the book's source and can be read directly on GitHub. To build t
 ```bash
 python3 -m venv .venv
 .venv/bin/pip install -r requirements.txt
+.venv/bin/python scripts/source_catalog.py --check
+.venv/bin/python -m unittest discover -s tests -v
 .venv/bin/python scripts/validate.py
 .venv/bin/python scripts/build.py
 .venv/bin/python -m http.server 8000 --directory _site

@@ -73,6 +73,52 @@
       ]
     },
     {
+      "title": "Worked examples",
+      "pages": [
+        {
+          "path": "walkthroughs/brief-to-handoff.md",
+          "title": "One task, from brief to handoff"
+        },
+        {
+          "path": "walkthroughs/when-the-agent-gets-stuck.md",
+          "title": "When the agent gets stuck"
+        },
+        {
+          "path": "walkthroughs/teach-taste.md",
+          "title": "Teach taste through corrections"
+        },
+        {
+          "path": "walkthroughs/improve-a-skill.md",
+          "title": "Improve a skill after a miss"
+        },
+        {
+          "path": "walkthroughs/choose-autonomy.md",
+          "title": "Choose agent autonomy"
+        },
+        {
+          "path": "walkthroughs/everyday-work.md",
+          "title": "Everyday work beyond code"
+        }
+      ]
+    },
+    {
+      "title": "Research",
+      "pages": [
+        {
+          "path": "research/README.md",
+          "title": "Research in the Fieldbook"
+        },
+        {
+          "path": "research/notes/context-retrieval.md",
+          "title": "A long brief and a retrieval check"
+        },
+        {
+          "path": "research/proposals/context-position.md",
+          "title": "Context-position study · proposed"
+        }
+      ]
+    },
+    {
       "title": "Essays",
       "pages": [
         {
@@ -115,6 +161,10 @@
         {
           "path": "templates/publication-note.md",
           "title": "Publication note"
+        },
+        {
+          "path": "templates/research-note.md",
+          "title": "Research note or report"
         }
       ]
     },

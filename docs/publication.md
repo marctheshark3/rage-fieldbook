@@ -5,6 +5,7 @@ The first edition was prepared on 18 October 2026 in Marc's timezone; source cap
 ## What enters this repository
 
 - Original editorial chapters and practical document templates.
+- Explicitly fictional teaching fixtures and documented local checks.
 - Three Marc-authored essays captured from the anonymously accessible live site.
 - Independently written descriptions and links to selected public repositories and official documentation.
 - The source catalog, publication allowlist, validation scripts, and static-reader build.
@@ -24,6 +25,20 @@ Published essays retain their original first-person voice and historical state. 
 Marc asked for a stronger focus on how and when to use AI, when to make skills, and the value of context accumulated through regular work. He supplied the Rage gear experience as his example: after about two months of building, an agent produced a first attempt that worked for him, which he attributed to its context about him and his preferences.
 
 [Two months behind a first attempt](../field-notes/rage-gear-context.md) publishes only that account and original general guidance drawn from it. No private artwork, original prompt, conversation transcript, production records, or implementation was inspected or imported for the note. The account is not independent evidence of causation, a measured success rate, or completion of a wider merchandise operation. The source catalog identifies it as an owner account and links to the published note.
+
+## Practice walkthroughs
+
+The six pages under `walkthroughs/` are original teaching material. The reading-digest example includes a fictional CSV, an authored baseline with a deliberate selection error, a revision, and executable acceptance checks. Its recorded execution establishes the local program behavior under those inputs. It is not a captured agent session, an independently tested skill, a fresh-session context comparison, or a productivity result.
+
+The taste, recovery, skill-revision, autonomy, and everyday-work examples use constructed assignments and editorial decisions. They do not reconstruct Marc's private work or extend the scope of the Rage gear account. The skill-revision exercise describes a fictional procedure in prose. Proposed evaluations remain labeled as proposed.
+
+The fixture source files belong to the explicit publication allowlist. The static reader links to those source files; it does not copy the example directory into the reader artifact.
+
+## Research and the maintenance skill
+
+The [research section](../research/README.md) distinguishes reading notes, proposed protocols, executed reports, and research papers. The first paper note identifies a primary published source inspected for the book. Its experiments have not been independently reproduced here. The context-position proposal has no executed cohort or results. Original commentary and proposed methods do not extend the evidence behind the gear account.
+
+At Marc's request, this repository also ships one public [Fieldbook maintenance skill](../.agents/skills/rage-fieldbook/SKILL.md). It covers editorial intake, research evidence, and repository checks. It contains portable task guidance and agent metadata, with no private context or skill collection. The reader links to its source; the build does not copy the package into the site artifact.
 
 ## Checks and their limits
 

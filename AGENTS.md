@@ -10,4 +10,5 @@ This is a public book repository. Treat the checked-in files and full Git histor
 - New reading pages belong in `book.json`; new tracked files require an explicit entry in `public-files.txt`.
 - Run `python scripts/source_catalog.py --check`, `python scripts/validate.py`, `python scripts/build.py`, and `git diff --check` before publishing changes.
 - Check the exact diff and generated artifact. Pattern scans supplement editorial review.
-- This repository describes existing skills. It does not maintain or distribute a private skill collection.
+- For Fieldbook editorial work, use the public repo skill at `.agents/skills/rage-fieldbook/SKILL.md`; it covers content intake, research, and publication checks.
+- This repository describes existing skills and ships its own public maintenance skill. It does not maintain or distribute a private skill collection.

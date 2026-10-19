@@ -20,6 +20,8 @@ Start with the job you want help doing. Sometimes you need possibilities. Someti
 
 These are working modes you can switch between. Exploration can become implementation once a direction is clear. A failed implementation can reveal a question that needs an investigation.
 
+[Everyday work beyond code](../walkthroughs/everyday-work.md) applies those modes to an invitation, a document comparison, a setup plan, and a research question. [One task, from brief to handoff](../walkthroughs/brief-to-handoff.md) connects them through a small executable teaching project.
+
 ## Notice when another step would help more
 
 A task already handled reliably by a direct tool may need no language model in the execution path. Let a calculator calculate, a search locate a known file, or a script perform an exact transformation. AI can help choose or build the tool when that is the uncertain part.

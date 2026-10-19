@@ -757,3 +757,21 @@ Source check: Official page opened and the customization-layer and guidance sect
 **Rights:** Owner-supplied account published at the scope provided for the book; no private source material reproduced.
 
 Source check: Account supplied by the owner for the book’s editorial direction. The linked note is its public record; no independent experiment or anonymous-source claim is made. Recorded `2026-10-19T00:59:55Z`.
+
+<h2 id="lost-in-the-middle">Lost in the Middle: How Language Models Use Long Contexts</h2>
+
+**Source:** [Lost in the Middle: How Language Models Use Long Contexts](https://aclanthology.org/2024.tacl-1.9/)
+
+**Authors:** Nelson F. Liu, Kevin Lin, John Hewitt, Ashwin Paranjape, Michele Bevilacqua, Fabio Petroni, and Percy Liang
+
+**Kind:** paper
+
+**Used for:** Historical context-position comparisons in question answering and key-value retrieval; background for a distinct Fieldbook proposal.
+
+**Limits:** Primary source inspected, not rerun. It does not test current products or establish the cause of the owner-reported gear result.
+
+**Rights:** Published paper: CC BY 4.0. Linked with original commentary; no figures or paper text reproduced.
+
+Source check: Opened the publisher record and read relevant methods/results in the published PDF (TACL 12, 2024, pp. 157–173; DOI 10.1162/tacl_a_00638). Anonymous HTTPS GET of https://aclanthology.org/2024.tacl-1.9.pdf returned HTTP 200; no Authorization header or cookies. Digest identifies the PDF bytes. Recorded `2026-10-19T15:03:46Z`.
+
+Source body SHA-256: `f37f6fabe0fe0d8c73b67579cd115dbf14e282cfb7b7af655ae8109638402c9b`.

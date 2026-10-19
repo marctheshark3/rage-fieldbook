@@ -14,6 +14,8 @@ For an established kind of work, give the agent room to make the decisions the p
 
 The [Rage gear account](../field-notes/rage-gear-context.md) shows why the brief does not always start from zero. Relevant prior context can carry earlier decisions into a new assignment. Check that the material is available and still applies.
 
+[Choose how much freedom to give an agent](../walkthroughs/choose-autonomy.md) gives concrete assignments for exploring a direction, implementing a bounded change, preparing publication, and agreeing on ongoing work.
+
 ## Turn a request into an expectation
 
 Consider a small request: make saving reliable when the connection drops. The implementation could involve a button, a request handler, a database constraint, or several of them. The useful expectation comes first: after the user retries, one intended record exists and the interface explains its state.

@@ -1,4 +1,6 @@
 .github/workflows/book.yml
+.agents/skills/rage-fieldbook/SKILL.md
+.agents/skills/rage-fieldbook/agents/openai.yaml
 .gitignore
 ACKNOWLEDGMENTS.md
 AGENTS.md
@@ -27,9 +29,14 @@ essays/README.md
 essays/keep-the-understanding.md
 essays/player-two.md
 essays/when-the-source-goes-quiet.md
+examples/reading-digest/digest.py
+examples/reading-digest/reading-list.csv
 field-notes/rage-gear-context.md
 public-files.txt
 requirements.txt
+research/README.md
+research/notes/context-retrieval.md
+research/proposals/context-position.md
 scripts/build.py
 scripts/source_catalog.py
 scripts/validate.py
@@ -40,5 +47,13 @@ templates/context-brief.md
 templates/delegation-brief.md
 templates/evidence-note.md
 templates/publication-note.md
+templates/research-note.md
 templates/work-brief.md
 tests/test_publication.py
+tests/test_reading_digest.py
+walkthroughs/brief-to-handoff.md
+walkthroughs/choose-autonomy.md
+walkthroughs/everyday-work.md
+walkthroughs/improve-a-skill.md
+walkthroughs/teach-taste.md
+walkthroughs/when-the-agent-gets-stuck.md
