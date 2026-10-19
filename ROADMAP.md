@@ -1,6 +1,6 @@
 # What to add next
 
-The book now begins with deciding when to use AI, the kind of help to ask for, and context accumulated through regular work. The context edition adds the owner-reported Rage gear account, criteria for new skills, and a context brief. The next additions should help readers apply and examine those practices in their own work.
+The book begins with deciding when to use AI, the kind of help to ask for, and context accumulated through regular work. The context edition adds the owner-reported Rage gear account, criteria for new skills, and a context brief. Six practical walkthroughs now connect those ideas through worked examples. The next investigations should add evidence that those teaching exercises cannot supply on their own.
 
 ## The direction to keep
 
@@ -9,12 +9,27 @@ The book now begins with deciding when to use AI, the kind of help to ask for, a
 - **Distinguish taste from procedure.** Put preferences in a relevant brief; turn stable recurring methods into skills when that investment serves the work.
 - **Carry the limits with the story.** A reported first-attempt success can teach a method without becoming a claim that all future work will succeed that way.
 
+## Practical additions
+
+The practical additions were developed in this order:
+
+1. **A complete worked example:** [One task, from brief to handoff](walkthroughs/brief-to-handoff.md) includes an original fictional reading-list fixture, an executed baseline failure, and passing revised checks. The session dialogue is constructed.
+2. **Recovering when an agent gets stuck:** [When the agent gets stuck](walkthroughs/when-the-agent-gets-stuck.md) explains how to diagnose missing information, choose a bounded next attempt, and preserve a useful restart packet.
+3. **Teaching taste through corrections:** [Teach taste through corrections](walkthroughs/teach-taste.md) follows constructed drafts and a scoped preference into another assignment and a new audience. It does not claim a measured context benefit.
+4. **Improving an existing skill:** [Improve a skill after a miss](walkthroughs/improve-a-skill.md) offers a fictional revision exercise with cases inside and outside its scope. Its program checks do not substitute for an agent or skill evaluation.
+5. **Choosing agent autonomy:** [Choose how much freedom to give an agent](walkthroughs/choose-autonomy.md) provides concrete assignments with useful checkpoints and explicit authority for consequential actions.
+6. **Everyday work beyond code:** [Everyday work beyond code](walkthroughs/everyday-work.md) works through fictional writing, document comparison, planning, and research examples with inspectable inputs and limits.
+
 ## Ready for a focused writing pass
+
+The [research desk](research/README.md) now provides reading notes, a report template, and a [proposed context-position protocol](research/proposals/context-position.md). The [public maintenance skill](.agents/skills/rage-fieldbook/SKILL.md) carries the intake and evidence decisions into future editing sessions. Neither writing a protocol nor checking the skill package executes a research study.
+
+The remaining investigations below need their own source work or execution; the digest fixture and constructed skill revision do not complete them.
 
 - **A complete skill case study.** Follow one public skill from its trigger to an actual task and returned artifact. Include a wrong-trigger case and a missing-prerequisite case. Start with [Option Flow](sources/README.md#option-flow) or [System Observatory](sources/README.md#system-observatory).
 - **One bounded subagent investigation.** Publish a fictional repository or a public teaching fixture, a disjoint task split, coverage records, disagreements, and the integrated answer. The current chapter explains the method; it does not claim a controlled comparison showing a speedup.
 - **A small source-memory notebook.** Make source, observation, decision, and open-question records concrete with a harmless public example. Include a superseded note and show how a fresh agent finds the current one.
-- **A fresh-session context exercise.** Give two fresh attempts the same harmless task and review criteria, with a small approved reference packet available to one. Record actual context access, conditions, and outputs. This is a proposed exercise; the Rage gear account did not run this comparison.
+- **A fresh-session context exercise.** The narrower [context-position proposal](research/proposals/context-position.md) is written but unexecuted. A separate packet-versus-no-packet comparison would need its own matched task and review criteria, actual context-access records, conditions, and outputs. The Rage gear account ran neither comparison.
 - **A monitor that recovers.** Use a synthetic event feed to examine duplicates, notification failures, and restart behavior. The shared [Nurse Shark Bot](sources/README.md#nurse-shark-bot) offers a documented architecture to learn from; proposed tests need their own execution.
 
 ## Needs a new experiment

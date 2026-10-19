@@ -14,11 +14,15 @@ Distinguish a lasting preference from a choice made for one occasion. Keep a dat
 
 Use the [context brief](../templates/context-brief.md) to collect a few relevant examples and decisions. It should help the agent choose what to inspect, without turning every past exchange into required reading.
 
+[Teach taste through corrections](../walkthroughs/teach-taste.md) follows a fictional editor from a rejected draft to a scoped preference, another input, and a later brief that changes the audience. Its constructed examples keep preference guidance separate from factual support.
+
 ## Check what the next agent can actually see
 
 Continuing to use AI for months does not guarantee that a particular run can access earlier work. Context may come from the current conversation, selected files, returned tool results, project guidance, or supported memory features. Different products and sessions can expose different material. The [official customization overview](../sources/README.md#official-context) describes several distinct layers in Codex; other environments have their own mechanisms.
 
 For an important continuing task, identify the brief, references, and current decisions the agent will use. Ask it to report unavailable material. You can check this with a narrow retrieval question before relying on a long task: which approved reference supports this choice, and can the agent actually open it?
+
+The [context research note](../research/notes/context-retrieval.md) connects a published paper to that retrieval question. Its paper results remain historical, source-inspected evidence. A [separate proposal](../research/proposals/context-position.md) describes a possible placement study; no such experiment has been run for this book.
 
 Retaining context also differs from changing the model's trained parameters. In this fieldbook, the practical method is to preserve useful records and make them available for the task. The gear account does not establish which persistence mechanism carried any particular detail.
 

@@ -39,7 +39,7 @@ Take one representative attempt that worked and identify the essential decisions
 
 Try the procedure on a similar task with different inputs and on a request outside its scope. Use the failures to refine it. A skill that only succeeds when given its original example may have preserved that example too literally.
 
-Keep a skill local to the work while its procedure is changing. Review private context separately before sharing a reusable package. The public lesson here is the method of finding and checking a procedure; this repository does not create or distribute a new skill package.
+Keep a skill local to the work while its procedure is changing. Review private context separately before sharing a reusable package. The public lesson here is the method of finding and checking a procedure. This book also ships its own focused [maintenance skill](../.agents/skills/rage-fieldbook/SKILL.md); it does not bundle a private skill collection.
 
 ## Preserve the useful judgment
 
@@ -72,6 +72,8 @@ Each skill enters when its question becomes useful. The session can use one skil
 Try the skill on a task that fits, a task that should not trigger it, and a case with a missing prerequisite. Check whether it asks for the right inputs, keeps its scope, and returns something useful. An evaluation that only checks whether the output repeats the instructions can miss whether the work helped.
 
 Record changes to the procedure with the failures that motivated them. A growing skill can become harder to use when every past incident becomes a permanent instruction. Keep the main path readable and retire rules that no longer serve the task.
+
+[Improve a skill after a miss](../walkthroughs/improve-a-skill.md) works through a fictional procedural revision, including a task outside its scope and a missing prerequisite. It distinguishes the digest's executed program checks from a proposed skill evaluation.
 
 ## A practice to try
 
