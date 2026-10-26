@@ -98,6 +98,10 @@
         {
           "path": "walkthroughs/everyday-work.md",
           "title": "Everyday work beyond code"
+        },
+        {
+          "path": "walkthroughs/define-success-with-the-pole.md",
+          "title": "Give AI a finish line you can test"
         }
       ]
     },

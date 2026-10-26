@@ -53,6 +53,7 @@ tests/test_publication.py
 tests/test_reading_digest.py
 walkthroughs/brief-to-handoff.md
 walkthroughs/choose-autonomy.md
+walkthroughs/define-success-with-the-pole.md
 walkthroughs/everyday-work.md
 walkthroughs/improve-a-skill.md
 walkthroughs/teach-taste.md

@@ -2,7 +2,7 @@
 
 Useful context lets an agent locate the next relevant fact without rereading everything that happened before. A collection of documents helps when it explains what is current, where a statement came from, and which decisions are still open.
 
-Marc's [Rage gear account](../field-notes/rage-gear-context.md) brings a personal dimension to this. After about two months of building, he described an agent producing a first attempt that fit what he liked. His explanation was the context the agent already had. Useful context can carry taste and earlier judgment alongside technical facts.
+Marc's [Rage gear account](../field-notes/rage-gear-context.md) raises the question of carrying taste and earlier judgment alongside technical facts. This chapter develops the practical record a continuing task needs; the field note retains the account and its limits.
 
 Start with a small map. Give the reader the project's purpose, the current working state, the entry points into the implementation, and the next consequential question. Link to the supporting material. A summary should help the reader reach the evidence when detail matters.
 
@@ -38,6 +38,61 @@ A practical notebook separates four things:
 These can live in plain files. The distinction matters more than the storage technology. An agent can otherwise turn a proposed design into an established fact by repeatedly summarizing it without its original qualification.
 
 The [System Observatory examples](../sources/README.md#system-observatory) make similar distinctions between documented intent, inferred explanations, observed behavior, and proposed designs. Use those labels when they help someone assess an explanation.
+
+## Build a small notebook with a current decision
+
+Here is a **constructed notebook for a fictional workshop**. The source excerpts, times, inspection, and decisions are authored teaching material. No booking was checked and no agent retrieval trial was run. The exercise shows what each kind of record contributes when a plan changes.
+
+At 09:00, the available booking and draft agree:
+
+```text
+S1 — Source — Booking revision 1, received 09:00
+Excerpt: "Workshop welcome: Room A, 18:00."
+
+O1 — Observation — Illustrated inspection of invitation draft 1
+The draft says "Room A, 18:00". It makes no equipment claim.
+This observation concerns draft 1 only.
+
+D1 — Decision — Accepted at 09:10, based on S1
+Use Room A and 18:00 in the attendee invitation.
+Reason: these are the details in the supplied booking.
+
+Q1 — Open question
+Is a projector included? S1 does not say.
+Next check: obtain an equipment confirmation for this booking.
+```
+
+At 11:00, a correction arrives. Preserve the old records and add the change:
+
+```text
+S2 — Source — Booking revision 2, received 11:00; replaces S1
+Excerpt: "Room B replaces Room A. The welcome remains at 18:00.
+Projector availability still needs confirmation."
+
+D2 — Decision — Accepted at 11:05; supersedes D1
+Use Room B and 18:00 in the attendee invitation, based on S2.
+Reason: the corrected booking explicitly changes the room.
+Scope: this workshop's attendee invitation.
+Revisit if: another booking correction arrives.
+```
+
+The current index now points to **S2 and D2**. Mark D1 as superseded by D2; keep it available as history. O1 still accurately describes the old draft. It supplies no evidence that the invitation has been corrected. Q1 remains open: a room correction did not confirm the equipment.
+
+That is the job of the notebook. A source can change, an old observation can remain true about its artifact, a decision can be replaced, and a question can survive all three. Flattening them into “the workshop is ready” would lose the next useful action.
+
+A small current-state packet can now say:
+
+> Use D2, supported by booking S2: Room B at 18:00. D1 and S1 are historical. The last inspected invitation, draft 1, still names Room A; revise it and inspect the new draft. Projector availability remains Q1. The available packet contains S1, S2, O1, D1, D2, Q1, and draft 1.
+
+The record labels can be headings in one document. Separate files become useful when records grow or different people own them. Give a real source an exact location and revision or capture identity, and give an observation the identity of the artifact inspected. The labels above identify only this fictional exercise.
+
+Before a new assignment, try this retrieval question:
+
+> Which room should the invitation use, what supports that choice, which existing artifact still needs correction, and what equipment fact remains unconfirmed?
+
+The expected answer is Room B from D2/S2, a correction to draft 1 from O1, and the unresolved projector question Q1. An answer citing D1 as current exposes a retrieval or guidance problem. A correct answer still needs a suitable revised invitation; retrieving the decision does not establish that the work was done.
+
+For your own notebook, choose one changing decision and make its replacement explicit. Use the [context brief](../templates/context-brief.md#keep-one-decision-current) for the active record. Retain enough history to explain the change while making the current path easy to find.
 
 ## Give a handoff a current state
 
