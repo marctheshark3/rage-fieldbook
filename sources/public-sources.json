@@ -576,6 +576,59 @@
       "verified_at": "2026-10-19T15:03:46Z",
       "verification": "Opened the publisher record and read relevant methods/results in the published PDF (TACL 12, 2024, pp. 157–173; DOI 10.1162/tacl_a_00638). Anonymous HTTPS GET of https://aclanthology.org/2024.tacl-1.9.pdf returned HTTP 200; no Authorization header or cookies. Digest identifies the PDF bytes.",
       "source_sha256": "f37f6fabe0fe0d8c73b67579cd115dbf14e282cfb7b7af655ae8109638402c9b"
+    },
+    {
+      "id": "pendulum-sixteen-protocol",
+      "title": "Sixteen-link acceptance protocol",
+      "kind": "repository",
+      "repository": "marctheshark3/pendulum-arena",
+      "url": "https://github.com/marctheshark3/pendulum-arena/blob/7c0cb0fb54b6e43ca4ae820a69856fdb5d8f5223/dist/data/protocol-canonical16.json",
+      "revision": "7c0cb0fb54b6e43ca4ae820a69856fdb5d8f5223",
+      "authors": "Marc and credited upstream task author Corben Sorenson",
+      "supports": "Published task conditions: sixteen links, strict wrapped absolute angles below 0.15 radians for 250 consecutive post-command samples at 50 Hz, a 3 metre rail limit, full 30-second completion and the remaining validity requirements.",
+      "limits": "Protocol source inspected. It specifies an acceptance contract; it does not establish that a controller or an AI-assisted workflow meets it. Fictional walkthrough cases assume other episode requirements are satisfied.",
+      "rights": "Linked public protocol with original editorial explanation; no source code or figures reproduced.",
+      "verified_at": "2026-10-22T12:56:13.395Z",
+      "verification": "Anonymous HTTPS GET of the exact raw GitHub revision returned HTTP 200. Request sent no Authorization header; requirements and acceptance sections read. No controller or physics run.",
+      "source_sha256": "312ed4455e41ee51bf1c35ed8b14a8301042667d7cce1f8a73e317bc7aaf0280"
+    },
+    {
+      "id": "pendulum-sixteen-result",
+      "title": "Sixteen-link author-reported result",
+      "kind": "release",
+      "url": "https://github.com/marctheshark3/pendulum-arena/releases/tag/canonical16-20261016",
+      "authors": "Marc and credited project/upstream contributors",
+      "supports": "Public author-reported simulation result and its evidence boundary, including the 7.34-second upright hold and same-owner checks.",
+      "limits": "Release description inspected, not independently reproduced for this book. A selected replay is not the cohort denominator, a hardware result or evidence of AI productivity.",
+      "rights": "Linked release description with original commentary. No release assets, third-party music or figures reproduced in the book.",
+      "verified_at": "2026-10-22T12:56:13.395Z",
+      "verification": "Opened the anonymously readable GitHub release and read its result, same-owner attestation and runtime/transfer limits. New execution was not performed."
+    },
+    {
+      "id": "marc-public-site",
+      "title": "Marc, NeuralYogi, and Rage Industries",
+      "kind": "author-page",
+      "url": "https://neuralyogi.com/",
+      "authors": "Marc / @NeuralYogi; Rage Industries",
+      "supports": "Public identification of Marc / @NeuralYogi with independent engineering at Rage Industries across AI systems, software, and physical interfaces.",
+      "limits": "Self-published author and work framing. It establishes no formal credential, employment history, independent performance measurement, or completion of a physical product.",
+      "rights": "Linked author-owned public page with original editorial introduction; no page text or artwork reproduced.",
+      "verified_at": "2026-10-23T01:20:00Z",
+      "verification": "Anonymous HTTPS GET returned HTTP 200; no Authorization header or cookies. Public identity, main copy, project-stage labels, and links read from the HTML. Digest identifies the complete response body, not an archived page or runtime result.",
+      "source_sha256": "60fa120f529a49e140c62670899abeb22e4722be80eb5b9396115e4f0eea8147"
+    },
+    {
+      "id": "marc-public-work",
+      "title": "Rage Industries public project guide",
+      "kind": "author-page",
+      "url": "https://neuralyogi.com/work/",
+      "authors": "Marc / @NeuralYogi; Rage Industries",
+      "supports": "The subjects and stated stages of public work: control simulations, Recompose as a concept, Agent Body Protocol as a simulator, and a display in development.",
+      "limits": "Public project descriptions inspected, not runtime-tested. Listed results remain author-reported; a concept or simulator is not evidence of a finished physical product.",
+      "rights": "Linked author-owned public page with original editorial introduction; no page text or artwork reproduced.",
+      "verified_at": "2026-10-23T01:20:48Z",
+      "verification": "Anonymous HTTPS GET returned HTTP 200; no Authorization header or cookies. Public identity, main copy, project-stage labels, and links read from the HTML. Digest identifies the complete response body, not an archived page or runtime result.",
+      "source_sha256": "dfe562cc6c14ff12876271dfbcdabe3602c1c66a170349ee0ad7b80df1157a44"
     }
   ]
 }

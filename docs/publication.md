@@ -28,11 +28,21 @@ Marc asked for a stronger focus on how and when to use AI, when to make skills, 
 
 ## Practice walkthroughs
 
-The six pages under `walkthroughs/` are original teaching material. The reading-digest example includes a fictional CSV, an authored baseline with a deliberate selection error, a revision, and executable acceptance checks. Its recorded execution establishes the local program behavior under those inputs. It is not a captured agent session, an independently tested skill, a fresh-session context comparison, or a productivity result.
+The seven pages under `walkthroughs/` are original teaching material. The reading-digest example includes a fictional CSV, an authored baseline with a deliberate selection error, a revision, and executable acceptance checks. Its recorded execution establishes the local program behavior under those inputs. It is not a captured agent session, an independently tested skill, a fresh-session context comparison, or a productivity result.
 
 The taste, recovery, skill-revision, autonomy, and everyday-work examples use constructed assignments and editorial decisions. They do not reconstruct Marc's private work or extend the scope of the Rage gear account. The skill-revision exercise describes a fictional procedure in prose. Proposed evaluations remain labeled as proposed.
 
+The pole acceptance walkthrough uses an anonymously readable pinned protocol and the public author's release description. Its prompts and classification rows are original constructed exercises. It imports no private transcript, local artifact paths or unpublished measurements. Source inspection does not independently reproduce the controller or establish an AI productivity effect.
+
 The fixture source files belong to the explicit publication allowlist. The static reader links to those source files; it does not copy the example directory into the reader artifact.
+
+## Author introduction and chapter exercises
+
+The author introduction uses Marc's anonymously accessible public home and project pages and his already-published weekly essay. The new site records identify the inspected HTML responses. They support his public identity and the subjects and stages of his work; they establish no credentials, employment history, independently measured achievement, or hidden implementation. No surname or private biographical source was added.
+
+The delegation returns, workshop notebook, unread-count state changes, and local-versus-hosted timing table are original constructed chapter exercises. Their excerpts, events, timings, and outcomes are fictional. They are not additional owner accounts, task logs, runtime checks, or research results. The notebook retrieval exercise and freshness checks remain practices to try, and the comparison table makes no provider or model ranking. The context-position proposal remains unexecuted.
+
+The roadmap distinguishes these completed writing additions from the evidence still needed. Neither this editorial pass nor a successful local reader build authorizes deployment or publication to another service.
 
 ## Research and the maintenance skill
 

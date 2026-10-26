@@ -2,19 +2,35 @@
 
 **Working with AI, keeping the understanding.**
 
-A living fieldbook by Marc / [@NeuralYogi](https://neuralyogi.com), from the work at Rage Industries. How to decide when AI will help, work with it effectively, build useful context over time, and recognize when a repeated procedure deserves a skill. Published essays and projects give those practices concrete examples.
+Marc is an independent builder working across AI systems, software, and physical interfaces under the name [Rage Industries](https://neuralyogi.com/work/). He writes as [@NeuralYogi](https://neuralyogi.com/). This fieldbook turns decisions from that work into methods you can try: choose a useful job for AI, give it enough context and freedom, inspect the result, and preserve what you learn.
 
 **[Read the book](https://marctheshark3.github.io/rage-fieldbook/)** · [When to use AI](chapters/00-when-to-use-ai.md) · [Start with a work brief](templates/work-brief.md) · [Sources and accounts](sources/README.md) · [What to add next](ROADMAP.md)
 
 This is a working editorial synthesis, prepared with AI assistance. Chapters offer practices and interpretations; linked project results and owner accounts keep their evidence boundaries. This book has not independently reproduced those experiments. The [publication note](docs/publication.md) explains the source boundary and checks.
 
-## Why a fieldbook
+## Who this is for
 
-After about two months of building with agents, Marc described asking one to make Rage gear and getting a first attempt that worked for him. He attributed the fit to the context it already had about him and what he liked. [Two months behind a first attempt](field-notes/rage-gear-context.md) records that account and turns it into a practical question: how do you preserve the judgment from today's work so it can help the next task?
+Start here if you can ask an AI assistant for help but want a more reliable way to direct and judge its work. You might be writing, comparing documents, building software, or investigating a prototype. You need a task and a way to inspect an attempt. The [opening chapter](chapters/00-when-to-use-ai.md) explains the terms used here; [everyday examples](walkthroughs/everyday-work.md) need no code. The runnable reading-list example uses basic Python, and the later hardware and infrastructure chapters assume more domain knowledge.
 
-The useful part of building with AI is the relationship between an intention, an action, and something we can inspect afterward. A working interface, a failed experiment, a clearer question, and a repeatable procedure can all be useful outcomes. This book follows those connections across software, research, games, and physical interfaces.
+By the end of a first pass, you should be able to write an inspectable work brief, review an artifact against it, correct a specific miss, and leave a current handoff. Skills, subagents, experiments, and physical interfaces extend that basic loop when the work needs them. Product setup and installation belong in the linked tools' own documentation.
 
-Read it as a set of methods to try and improve. Each chapter gives you a concrete way to use the idea, a public example where available, and a boundary on what that example establishes.
+## Why Marc is writing a fieldbook
+
+NeuralYogi is Marc's public writing identity; Rage Industries names the engineering work presented on the same site. His [public project pages](https://neuralyogi.com/work/) include control simulations, interfaces that expose missing evidence, and a protocol connecting coding-agent events to simulated light and movement. Their stages matter: a concept, a simulator, and a physical product carry different evidence. The [author source records](sources/README.md#marc-public-site) ground this introduction in his public pages.
+
+In [What a week of building with agents actually looks like](https://neuralyogi.com/essays/2026-10-10-what-a-week-of-building-with-agents-actually-looks-like/), Marc connects a game screenshot, a CAD revision, and a code investigation through the question of what result someone can inspect. That gives this book its working perspective: direct a build, look at what happened, and make the next decision from the evidence. The essays supply his first-person account; the chapters develop practices from it.
+
+The reason for a fieldbook is to make that judgment reusable. A project update records what happened once. A fieldbook can explain how to write the next brief, recognize a failure, or carry a useful decision into another session. Marc's [Rage gear account](field-notes/rage-gear-context.md) adds the question of accumulated context: he reported a first attempt that fit his taste after about two months of building with agents. The practical question is how to preserve earlier judgment and make it available when it matters again.
+
+Read these methods as practices to try and improve. A working interface, a failed experiment, a clearer question, and a repeatable procedure can all be useful outcomes. Each needs a record that lets someone assess what it establishes.
+
+## Finish one small task first
+
+1. **Choose and brief it.** Read [When to use AI](chapters/00-when-to-use-ai.md) and [Keep the direction](chapters/01-keep-the-direction.md). Leave with a few sentences naming the outcome, an important condition, and the evidence you want back.
+2. **Make and review an attempt.** Follow [One task, from brief to handoff](walkthroughs/brief-to-handoff.md), or choose a [task without code](walkthroughs/everyday-work.md). Use [the agent loop](chapters/02-the-agent-loop.md) to compare the artifact with the brief. Leave with an acceptance decision and any correction it needs. The [pole exercise](walkthroughs/define-success-with-the-pole.md) helps distinguish failure from missing evidence.
+3. **Carry the useful part forward.** Use [the notebook example](chapters/05-context-and-memory.md#build-a-small-notebook-with-a-current-decision) and [context brief](templates/context-brief.md). Leave with the current decision, its supporting source, and the next open question.
+
+You have completed the basic learning loop when another person can assess the artifact and find the current state without reading the conversation. The book does not claim that a particular model or prompt will reliably achieve that for you.
 
 ## Read in order
 
@@ -42,6 +58,7 @@ Continue with the question that fits your work:
 - [Improve a skill after a miss](walkthroughs/improve-a-skill.md) — separate a code failure from a proposed procedural repair.
 - [Choose agent autonomy](walkthroughs/choose-autonomy.md) — give useful freedom and make checkpoints concrete.
 - [Everyday work beyond code](walkthroughs/everyday-work.md) — try writing, comparison, planning, and research without running code.
+- [Give AI a finish line you can test](walkthroughs/define-success-with-the-pole.md) — turn a public pole protocol into an acceptance brief, then classify constructed evidence cases.
 
 These are original teaching exercises. Constructed drafts and proposed agent evaluations are labeled separately from the digest's executed program checks.
 

@@ -1,10 +1,23 @@
 # When to use AI
 
-After two months of building together, a short request can carry a long history. The person and the agent have examples to work from, decisions to preserve, and procedures they have already improved. An apparently effortless result may depend on that earlier work.
-
-Marc's [Rage gear account](../field-notes/rage-gear-context.md) gives this book a concrete starting point. He described asking an agent to make the gear and getting a first attempt that worked for him. He attributed that fit to the context the agent already had about him and what he liked. The question for a reader is how to build a useful working relationship of their own.
-
 Start with the job you want help doing. Sometimes you need possibilities. Sometimes you need a careful explanation, an implementation, or a repeated operation. Sometimes you need a question that helps you decide what you actually want.
+
+## Know which part is doing the work
+
+You can begin with an assistant that accepts text and returns a draft. More capable environments can also read files, use tools, and take several actions. This book uses a few terms to keep those parts distinguishable:
+
+| Term | What it means here | A reading-list example |
+| --- | --- | --- |
+| Model | The system generating an answer or proposed action from its input | Suggests how to select unread entries |
+| Agent | A working loop around a model that can use available tools and inspect their results | Opens the list, edits a program, runs it, and reviews the output |
+| Tool | A specific operation the environment exposes | Reads a file or runs a command |
+| Context | Material available for the current work | The list, brief, accepted example, and returned tool results |
+| Skill | Saved instructions for a recurring kind of job | A procedure for preparing and checking a digest |
+| Artifact | Something returned for you to inspect | A draft list, a program change, or a check record |
+
+These are working definitions, not a product feature list. Check what your session can actually access and do. Asking for a screenshot does not give a text-only assistant browser access. Saving a preference does not establish that a future session receives it.
+
+In the [fictional digest walkthrough](../walkthroughs/brief-to-handoff.md), AI can help make the program; the accepted program can then select entries without a model. The person still decides what counts as unread and judges whether the returned list serves the task.
 
 ## Choose the kind of help
 
@@ -35,6 +48,8 @@ Some activities are valuable because you want to do the thinking or making yours
 Before spending time on an elaborate prompt, identify the result you want, the material the agent can use, and how you will judge what comes back. If those are unclear, ask for help making them concrete.
 
 When you have relevant prior work, reuse it deliberately. Point to a few accepted examples and say why they fit. Include a rejected direction if it explains a boundary. Add the current task and any new constraint. The [context brief](../templates/context-brief.md) keeps that information small enough to review.
+
+Marc's [Rage gear account](../field-notes/rage-gear-context.md) motivates this continuing-work question: a short new request may depend on earlier judgment. The record you supply and the access the next session actually has are things you can inspect; time spent using an assistant alone does not establish either.
 
 ## A practice to try
 

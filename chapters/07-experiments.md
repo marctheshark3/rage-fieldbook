@@ -28,6 +28,8 @@ The same care applies to speed. Report the work included in the timing, the envi
 
 ## A practice to try
 
+[Give AI a finish line you can test](../walkthroughs/define-success-with-the-pole.md) turns the public pole protocol into a practical acceptance brief. Its fictional cases distinguish a short hold, a rail violation and missing evidence; they do not add controller results to the published campaign.
+
 Use the [research guide](../research/README.md) and [research note template](../templates/research-note.md) when a comparison needs a fuller method and result record. The [context-position proposal](../research/proposals/context-position.md) shows how to state a bounded question before execution, with missing artifacts and results kept visible.
 
 Pick one promising claim in a project. Write its strongest simpler alternative explanation. Identify the baseline or ablation that could distinguish them. Use the [evidence note](../templates/evidence-note.md) to record the comparison, including what a negative result would mean before running it.

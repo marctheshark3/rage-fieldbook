@@ -36,4 +36,6 @@ This is especially valuable for autonomous work. A persistent loop needs a visib
 
 When attempts keep returning the same failure, use [When the agent gets stuck](../walkthroughs/when-the-agent-gets-stuck.md) to identify the missing information and bound the next investigation. [One task, from brief to handoff](../walkthroughs/brief-to-handoff.md) connects the loop to an executable teaching fixture.
 
+[Give AI a finish line you can test](../walkthroughs/define-success-with-the-pole.md) uses a public pendulum protocol to distinguish a convincing frame from the time series and complete record an acceptance decision needs. It includes a constructed prompt and fictional cases to classify.
+
 Choose a task that currently produces vague progress updates. Ask the agent to return one before-and-after artifact, the command or sequence that produced it, and the next decision it supports. Use the [evidence note](../templates/evidence-note.md). Expand the loop once the small version gives useful feedback.
