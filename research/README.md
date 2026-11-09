@@ -34,7 +34,9 @@ Use a report when actual evidence answers a bounded question. A larger research 
 
 State who performed the work and what review occurred. Preserve collaboration and authorship. A project's published evaluation remains reported evidence until an independent reproduction is carried out and recorded. Essays and owner accounts retain their own boundaries.
 
-There are no original study results in this section yet. The digest walkthrough's acceptance tests establish its fictional program behavior; they are not a model, skill, or context experiment.
+The report [Can a coding setup learn from its own history?](reports/harness-dreaming-pilot.md) describes a locally executed, AI-assisted harness-maintenance investigation. It separates authored decision cases, component tests and six paired metadata-audit jobs. It retains a protocol-ambiguous sixth pair and does not establish added reflection value or a general productivity gain. The original private inputs remain outside the book, so it is not an independently reproduced or artifact-complete public study.
+
+This does not execute the separate context-position proposal or complete a broad skill-transfer study. The digest walkthrough's acceptance tests still establish only its fictional program behavior; they are not a model, skill, or context experiment.
 
 ## Turn a result into a practice carefully
 

@@ -58,6 +58,8 @@ Use a small set of cases whose expectations are written before judging the revis
 
 The revised digest program passed all eight acceptance checks, as recorded in the [walkthrough](brief-to-handoff.md#5-verify-against-the-original-expectation). That evidence covers the code's behavior. It does not establish that an agent will discover the proposed skill at the right time, follow its procedure, or handle the last two cases appropriately.
 
+A separate, locally executed [harness-maintenance pilot](../research/reports/harness-dreaming-pilot.md) encountered this distinction in real metadata-audit jobs: native auditors wrote their own parsers instead of executing the supplied helper. A component repair can be valid without those jobs demonstrating a delivery benefit from it. That pilot does not turn this fictional skill exercise into an executed skill-transfer study.
+
 For a real skill evaluation, run the representative tasks with the relevant skill versions in the intended environment. Record the loaded instructions, source access, returned artifacts, checks, and failures. Keep the task packet and review criteria comparable between attempts. Discovery and execution are separate things to examine.
 
 ## Decide whether to keep the revision

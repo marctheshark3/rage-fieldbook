@@ -64,7 +64,9 @@ These are original teaching exercises. Constructed drafts and proposed agent eva
 
 ## Read and investigate research
 
-The [research desk](research/README.md) connects published papers and original investigations to practical questions. Start with [A long brief still needs a retrieval check](research/notes/context-retrieval.md), then inspect [a proposed context-position study](research/proposals/context-position.md). The paper was read; no context experiment has been run for these pages. Use the [research note template](templates/research-note.md) for a reading note, proposal, or executed report.
+The [research desk](research/README.md) connects published papers and original investigations to practical questions. [Can a coding setup learn from its own history?](research/reports/harness-dreaming-pilot.md) is a report of a locally executed, AI-assisted engineering investigation: concrete component findings, no demonstrated reflection benefit, and an inconclusive primary pilot comparison. Its original private inputs are not a public reproduction package.
+
+For paper-based context work, start with [A long brief still needs a retrieval check](research/notes/context-retrieval.md), then inspect [a proposed context-position study](research/proposals/context-position.md). The paper was read; that separate context-position experiment remains unexecuted. Use the [research note template](templates/research-note.md) for a reading note, proposal, or executed report.
 
 ## Read from the essays
 

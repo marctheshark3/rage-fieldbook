@@ -37,6 +37,7 @@ requirements.txt
 research/README.md
 research/notes/context-retrieval.md
 research/proposals/context-position.md
+research/reports/harness-dreaming-pilot.md
 scripts/build.py
 scripts/source_catalog.py
 scripts/validate.py

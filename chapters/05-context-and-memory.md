@@ -26,6 +26,8 @@ The [context research note](../research/notes/context-retrieval.md) connects a p
 
 Retaining context also differs from changing the model's trained parameters. In this fieldbook, the practical method is to preserve useful records and make them available for the task. The gear account does not establish which persistence mechanism carried any particular detail.
 
+The [harness-maintenance pilot](../research/reports/harness-dreaming-pilot.md) tested cumulative evidence on a small authored fixture and found an analyzer that could not read a selected session format. It illustrates two checks: distinguish the processing interval from the evidence retained, and establish what the reader can actually interpret. It did not demonstrate an optimal cadence or a general benefit from automated reflection.
+
 ## Keep different kinds of knowledge distinguishable
 
 A practical notebook separates four things:
