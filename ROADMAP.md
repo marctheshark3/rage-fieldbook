@@ -18,7 +18,7 @@ The gear story remains in its field note, with shorter references from the openi
 
 [Skills](chapters/03-skills.md) and [Improve a skill after a miss](walkthroughs/improve-a-skill.md) teach procedural design, but there is no executed agent study showing discovery and use across fitting, wrong-trigger, and missing-input cases. The new delegation and notebook examples are also authored exercises. A reader can practice the decisions; the book cannot yet show measured transfer to a new agent session.
 
-[Experiments](chapters/07-experiments.md) and the [research desk](research/README.md) explain how to judge and plan evidence. The pole walkthrough adds a concrete acceptance contract, but there is still no independently executed research comparison in the research section. [From screen to world](chapters/09-from-screen-to-world.md) distinguishes evidence stages without carrying one already-public artifact through an actual physical fit. The local-versus-hosted table supplies arithmetic, not adoption evidence.
+[Experiments](chapters/07-experiments.md) and the [research desk](research/README.md) explain how to judge and plan evidence. The [harness-maintenance report](research/reports/harness-dreaming-pilot.md) now adds locally executed, AI-assisted component tests and a limited paired audit-task pilot. Its primary comparison is inconclusive, its private inputs are not publicly bundled, and it is not an independent reproduction or a general skill-transfer result. The pole walkthrough still supplies a constructed acceptance exercise, not a new controller run. [From screen to world](chapters/09-from-screen-to-world.md) has not carried an already-public artifact through an actual physical fit. The local-versus-hosted table supplies arithmetic, not adoption evidence.
 
 Many exercises reuse the small digest or a fictional group plan. That continuity helps a first pass, but it leaves larger, changing tasks underrepresented. The most useful next example would follow a real public task through conflicting inputs, failed attempts, a revised artifact, and a fresh-session handoff, with actual access and execution recorded. More tool descriptions would not fill that gap.
 
@@ -45,7 +45,7 @@ The chapter examples listed above complete the small-notebook writing task and a
 
 ## Ready for a focused writing pass
 
-The [research desk](research/README.md) now provides reading notes, a report template, and a [proposed context-position protocol](research/proposals/context-position.md). The [public maintenance skill](.agents/skills/rage-fieldbook/SKILL.md) carries the intake and evidence decisions into future editing sessions. Neither writing a protocol nor checking the skill package executes a research study.
+The [research desk](research/README.md) now provides reading notes, a report template, an [executed harness-maintenance report](research/reports/harness-dreaming-pilot.md), and a separate [proposed context-position protocol](research/proposals/context-position.md). That proposal remains unexecuted. The [public maintenance skill](.agents/skills/rage-fieldbook/SKILL.md) carries the intake and evidence decisions into future editing sessions. Neither writing a protocol nor checking the skill package executes a research study.
 
 The remaining investigations below need their own source work or execution; the digest fixture and constructed skill revision do not complete them.
 

@@ -113,6 +113,10 @@
           "title": "Research in the Fieldbook"
         },
         {
+          "path": "research/reports/harness-dreaming-pilot.md",
+          "title": "Can a coding setup learn from its own history? · Pilot report"
+        },
+        {
           "path": "research/notes/context-retrieval.md",
           "title": "A long brief and a retrieval check"
         },

@@ -59,3 +59,11 @@ An additional first-publication review compares the publication tree with a priv
 Automatic patterns cannot establish that every sentence is free of confidential information. Human-readable source boundaries and an inspection of the exact artifact remain part of publication. Future changes need the same review; these checks do not grant permission to publish new private material.
 
 The initial validation record is in [the first-edition check note](release-check.md). The context edition has a [separate check record](edition-0.2-check.md). Update these only with checks actually performed.
+
+## Harness-maintenance report
+
+Marc authorized public source publication of the [harness-maintenance report](../research/reports/harness-dreaming-pilot.md) on 9 November 2026. It is an original AI-assisted account of work executed on 7–8 November. The selected material is its explanation, aggregate outcomes and retained protocol/source digests—not its private research directory. The report states the author's role, assistant execution, parent-authored scoring, retained protocol failure, lack of independent reproduction and limits on public reproducibility.
+
+No raw session, reasoning, tool argument/output payload, source-thread identity, account detail, private repository identifier, fleet path or operational endpoint is selected. A retained artifact digest identifies private evidence but does not make that evidence public or independently verified. New teaching fixtures, if prepared later, must be labeled separately from the original cohort. This report adds no copied transcript or historical essay revision and grants no permission to publish other private measurements or supporting material.
+
+The separate NeuralYogi essay remains private and is not part of this publication. Public source availability through a pull request is distinct from merging the report into the book and publishing the generated reader. This report does not authorize changes to installed agent instructions, skills, tools or recurring automation.

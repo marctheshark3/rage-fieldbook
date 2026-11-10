@@ -12,6 +12,8 @@ That distinction changes the interpretation. The release offers material for stu
 
 Keep a simpler baseline in the comparison. If it performs the task with less cost, that fact belongs beside the candidate's result. It can reveal where a complex method helps, where it adds overhead, or where the original question needs revision.
 
+The locally executed [harness-maintenance pilot](../research/reports/harness-dreaming-pilot.md) adds a related caution. Its constrained model proposal reproduced a deterministic reference, and the native auditors bypassed the helper whose code had changed. Separate component checks supported the repair; correct final reports did not establish a task benefit from it. The planned primary comparison was also inconclusive because one frozen task contract was inconsistent. Keep those limitations with the result.
+
 ## Preserve the whole cohort
 
 [Pendulum Arena](../sources/README.md#pendulum-arena) documents campaigns with protocol identities, controller freezes, complete cohorts, and linked artifacts. It distinguishes author-attested entries from independent reproduction and keeps the browser toy separate from scored native campaigns.
